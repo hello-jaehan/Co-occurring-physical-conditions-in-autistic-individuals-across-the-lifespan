@@ -1,0 +1,1795 @@
+﻿physical.condition_raw,merge.figure,physical.condition_main_analysis,physical.condition_sub_analysis,assigned.age,total.N,autism.N,rep.effect,SE,rep.metric,AorR
+aBMD,Bone,Bone disease (aBMD)_SMD,,6.36,80,40,-0.73,0.2321,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,17.6,18,9,-1.88,0.5893,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,17.6,18,9,-0.72,0.4898,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,17.6,18,9,-2.35,0.6454,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,13.6,34,16,-0.86,0.3622,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,13.6,34,16,-0.53,0.3495,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,13.6,34,16,-0.74,0.3571,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,13.6,34,16,-0.55,0.3495,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,10.9,49,25,-0.97,0.3036,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,10.9,49,25,-0.74,0.2959,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,10.9,36,18,-0.8,0.3495,SMD,SMD
+aBMD,Bone,Bone disease (aBMD)_SMD,,10.9,49,25,-0.63,0.2934,SMD,SMD
+Allergic conjunctivitis,Allergy,Allergic disease_frequency,,13.22,,578,0.2301,0.01751,frequency,frequency
+Allergic conjunctivitis,Allergy,Allergic disease_ratio,,13.22,25688,578,0.811,0.0998,OR,ratio
+Allergic conjunctivitis/rhinitis,Allergy,Allergic disease_frequency,,4.8,,107,0.215,0.03971,frequency,frequency
+Allergic conjunctivitis/rhinitis,Allergy,Allergic disease_frequency,,7.6,,26,0.2692,0.08699,frequency,frequency
+Allergic conjunctivitis/rhinitis,Allergy,Allergic disease_ratio,,4.8,150,107,1.198,0.4571,OR,ratio
+Allergic conjunctivitis/rhinitis,Allergy,Allergic disease_ratio,,7.6,69,26,1.612,0.5908,OR,ratio
+Allergic disease,Allergy,Allergic disease_frequency,,3.5,,220,0.4864,0.0337,frequency,frequency
+Allergic disease,Allergy,Allergic disease_frequency,,8.4,,50,0.52,0.07065,frequency,frequency
+Allergic disease,Allergy,Allergic disease_frequency,,8.12,,42,0.5238,0.07706,frequency,frequency
+Allergic disease,Allergy,Allergic disease_ratio,,3.5,16610,220,2.48,0.5341,OR,ratio
+Allergic disease,Allergy,Allergic disease_ratio,,8.4,100,50,9.75,0.5499,OR,ratio
+Allergic rhinitis,Allergy,Allergic disease_frequency,,17.51,,1598,0.3805,0.01215,frequency,frequency
+Allergic rhinitis,Allergy,Allergic disease_frequency,,13.22,,578,0.4619,0.02074,frequency,frequency
+Allergic rhinitis,Allergy,Allergic disease_frequency,,13.3,,15,0.7333,0.11418,frequency,frequency
+Allergic rhinitis,Allergy,Allergic disease_frequency,,8.4,,50,0.154,0.05105,frequency,frequency
+Allergic rhinitis,Allergy,Allergic disease_frequency,,12.15,,5565,0.1596,0.00491,frequency,frequency
+Allergic rhinitis,Allergy,Allergic disease_ratio,,17.51,7990,1598,1.7,0.0599,OR,ratio
+Allergic rhinitis,Allergy,Allergic disease_ratio,,13.22,25688,578,1.353,0.0844,OR,ratio
+Allergies,Allergy,Allergic disease_frequency,,9.2,,728,0.4,0.01816,frequency,frequency
+Allergies,Allergy,Allergic disease_frequency,,9,,2623,0.34,0.00925,frequency,frequency
+Allergy,Allergy,Allergic disease_frequency,,6.9,,20,0.2,0.08944,frequency,frequency
+Allergy,Allergy,Allergic disease_frequency,,23.5,,116,0.397,0.04543,frequency,frequency
+Allergy,Allergy,Allergic disease_frequency,,34.5,,67,0.328,0.05736,frequency,frequency
+Allergy,Allergy,Allergic disease_frequency,,48,,72,0.292,0.05358,frequency,frequency
+Allergy,Allergy,Allergic disease_ratio,,13.22,25688,578,1.24,0.09,OR,ratio
+Allergy,Allergy,Allergic disease_ratio,,6.9,40,20,0.4642857,0.3387,OR,ratio
+Any allergies,Allergy,Allergic disease_ratio,,8.5,"33,390",5565,1.16,0.0633,OR,ratio
+Any allergies,Allergy,Allergic disease_ratio,,15,"33,390",5565,1.21,0.0588,OR,ratio
+Any allergies,Allergy,Allergic disease_ratio,,5,"33,390",5565,1.2,0.1182,OR,ratio
+Any allergies,Allergy,Allergic disease_ratio,,22.5,"33,390",5565,1.52,0.1103,OR,ratio
+Any allergy,Allergy,Allergic disease_frequency,,12.15,,5565,0.2063,0.00542,frequency,frequency
+any incontinence,Neuropsy,Elimination disorder_frequency,,19.5,,94,0.3085,0.04764,frequency,frequency
+any incontinence,Neuropsy,Elimination disorder_frequency,,6.8,,54,0.5741,0.06729,frequency,frequency
+any incontinence,Neuropsy,Elimination disorder_frequency,,11.3,,40,0.4,0.07746,frequency,frequency
+any incontinence,Neuropsy,Elimination disorder_frequency,,2.5,,37,0.0541,0.03717,frequency,frequency
+any incontinence,Neuropsy,Elimination disorder_frequency,,5,,48,0.1458,0.05094,frequency,frequency
+any incontinence,Neuropsy,Elimination disorder_frequency,,7.5,,36,0.1111,0.05238,frequency,frequency
+any incontinence,Neuropsy,Elimination disorder_frequency,,11,,20,0,0.0001,frequency,frequency
+Any sleep disorder,Sleep,Sleep_sleep problem_frequency,,7.19,,48762,0.307,0.00209,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,17.51,,1598,0.2328,0.01057,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,3.5,,220,0.1182,0.02176,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,4.8,,107,0.1402,0.03356,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,7.6,,26,0.1538,0.07076,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,13.22,,578,0.2526,0.01807,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,13.3,,15,0.1333,0.08777,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,6.9,,20,0.1,0.06708,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,8.4,,50,0.577,0.06987,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,8.12,,42,0.2143,0.06331,frequency,frequency
+asthma,Allergy,Asthma_frequency,,10,,375,0.216,0.02125,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,3,,482,0.11,0.01425,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,4,,478,0.113,0.01448,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,5,,432,0.1343,0.0164,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,12.15,,5565,0.1366,0.0046,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,23.5,,116,0.172,0.03504,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,34.5,,67,0.119,0.03956,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,48,,72,0.056,0.0271,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,10.5,,91,0.231,0.04418,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,7,,3911,0.2477,0.0069,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,3.5,,663,0.1309,0.0131,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,3.4,,464,0.075,0.01223,frequency,frequency
+Asthma,Allergy,Asthma_frequency,,9.2,,728,0.155,0.01341,frequency,frequency
+Asthma,Allergy,Asthma_ratio,,17.51,7990,1598,1.74,0.0704,OR,ratio
+Asthma,Allergy,Asthma_ratio,,3.5,16610,220,0.69,0.5174,OR,ratio
+Asthma,Allergy,Asthma_ratio,,4.8,150,107,0.713,0.4807,OR,ratio
+Asthma,Allergy,Asthma_ratio,,7.6,69,26,0.795,0.6701,OR,ratio
+Asthma,Allergy,Asthma_ratio,,13.22,25688,578,1.293,0.097,OR,ratio
+Asthma,Allergy,Asthma_ratio,,6.9,40,20,1,1.0541,OR,ratio
+Asthma,Allergy,Asthma_ratio,,15,"33,390",5565,0.78,0.0649,OR,ratio
+Asthma,Allergy,Asthma_ratio,,8.5,"33,390",5565,0.85,0.0717,OR,ratio
+Asthma,Allergy,Asthma_ratio,,22.5,"33,390",5565,0.85,0.1319,OR,ratio
+Asthma,Allergy,Asthma_ratio,,5,"33,390",5565,0.96,0.1503,OR,ratio
+Asthma,Allergy,Asthma_ratio,,3.57,114,45,4.65,0.574,OR,ratio
+Asthma,Allergy,Asthma_ratio,,3,69,30,0.04,2.266,OR,ratio
+Asthma,Allergy,Asthma_ratio,,7.9,176,43,0.73,0.4671,OR,ratio
+Asthma,Allergy,Asthma_ratio,,10.5,77957,1412,1.19,0.0728,OR,ratio
+Asthma,Allergy,Asthma_ratio,,3.5,169,86,0.86,0.2103,OR,ratio
+Asthma,Allergy,Asthma_ratio,,12.5,45,30,0.31,0.8439,OR,ratio
+Asthma,Allergy,Asthma_ratio,,11.7,288,96,1.12,0.5751,OR,ratio
+Asthma,Allergy,Asthma_ratio,,10.5,36150,375,1.6,0.1464,OR,ratio
+Asthma,Allergy,Asthma_ratio,,10.5,22119,91,1.9,0.2559,OR,ratio
+Asthma,Allergy,Asthma_ratio,,7,38662,3911,0.94,0.041,OR,ratio
+Asthma,Allergy,Asthma_ratio,,3.5,1578,663,0.98,0.175,OR,ratio
+Asthma,Allergy,Asthma_ratio,,3.4,1376,464,0.44,0.2301,OR,ratio
+Atopic eczema,Allergy,Atopic eczema_frequency,,17.51,,1598,0.1777,0.00956,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,3.5,,220,0.2727,0.03003,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,4.8,,107,0.0561,0.02224,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,7.6,,26,0.0385,0.03771,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,6.9,,20,0.15,0.07984,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,8.4,,50,0.5,0.07071,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,8.12,,42,0.1429,0.05399,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,3,,483,0.6522,0.02167,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,4,,475,0.6737,0.02151,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,5,,435,0.5954,0.02353,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,3.56,,45,0.3333,0.07027,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,7.44,,59,0.1017,0.03935,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,7,,3911,0.2109,0.00652,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,5.4,,73,0.0411,0.02323,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,6.4,,133,0.0526,0.01936,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,10.53,,72,0.3611,0.05661,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,7,,72,0.25,0.05103,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,12.95,,1036,0.1757,0.01182,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,13.3,,15,0.1333,0.08777,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,7.35,,40,0.25,0.06847,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,8.4,,50,0.26,0.06203,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,8.27,,30,0.2,0.07303,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,8.12,,42,0.2619,0.06784,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,10,,119,0.3445,0.04356,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,10,,375,0.1573,0.0188,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,9.78,,1868,0.167,0.00863,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_frequency,,12.15,,5565,0.0728,0.00348,frequency,frequency
+Atopic eczema,Allergy,Atopic eczema_ratio,,17.51,7990,1598,1.52,0.0802,OR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,3.5,16610,220,7.17,0.5249,OR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,4.8,150,107,1.218,0.8372,OR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,7.6,69,26,0.82,1.2508,OR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,6.9,40,20,1.588235,1.5462,OR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,3.56,114,45,0.96,0.2665,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,7.44,109,59,1.69,0.6784,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,7,42520,3911,1.12,0.0319,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,5.4,146,73,7,1.5014,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,10.53,147,72,1.93,0.2879,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,7,4761,72,1.14,0.2069,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,12.95,26724,1036,1.56,0.0701,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,13.3,45,15,9.84,1.5188,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,6.9,40,20,1.5,0.8565,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,8.4,100,50,4.33,0.6094,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,8.27,60,30,13,1.4435,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,8.12,84,42,23,1.4281,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,10,1392,119,1.22,0.1325,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,10,36150,375,1.54,0.1196,RR,ratio
+Atopic eczema,Allergy,Atopic eczema_ratio,,9.78,199520,1868,1.73,0.053,RR,ratio
+Atopy,Allergy,Atopic eczema_frequency,,8.8,,49,0.4694,0.07129,frequency,frequency
+Atopy,Allergy,Atopic eczema_ratio,,8.8,130,49,1.97,0.3782,RR,ratio
+Coordination,Neuropsy,Motor disease_frequency,,9.2,,728,0.4,0.01816,frequency,frequency
+daytime urinary incontinence,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,23.5,,116,0.043,0.01883,frequency,frequency
+daytime urinary incontinence,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,34.5,,67,0.194,0.04831,frequency,frequency
+daytime urinary incontinence,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,48,,72,0.222,0.04898,frequency,frequency
+daytime urinary incontinence,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,6.8,,54,0.4074,0.06686,frequency,frequency
+daytime urinary incontinence,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,11.3,,40,0.25,0.06847,frequency,frequency
+daytime urinary incontinence,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,8.6,,20,0.55,0.11124,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,11.2,,20,0.45,0.11124,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,8.45,,61,0.77,0.05388,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,9.5,,62,0.581,0.06266,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,8.5,,34,0.618,0.08061,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,11.89,,22,0.864,0.0773,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,11.75,,39,0.205,0.0648,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,7.5,,35,0.914,0.05255,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,10,,483,0.404,0.02219,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,13.5,,14,0.2143,0.10966,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,4.5,,12,0.5,0.14434,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,7,,31,0.4516,0.08938,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,10.5,,49,0.4898,0.07141,frequency,frequency
+Dental caries,Dental,Dental_dental caries_frequency,,12.84,,51,0.4118,0.06892,frequency,frequency
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,4.9,11130,257,1.26,0.1783,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,10.5,40,20,0.46,0.7631,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,9.06,200,100,7.05,0.4224,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,10.5,299,187,1.82,0.2762,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,12.84,144,51,5.13,0.3819,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,10,174,63,2.73,0.9286,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,10.1,650,52,3.82,0.6181,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,5.53,82,40,3.25,0.7165,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,5.33,85,58,6.81,1.4862,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,10.08,128,64,1.51,0.4564,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,9.32,220,55,15.5,0.418,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,10,346,173,3.44,0.2452,OR,ratio
+Dental_Bruxism,Dental,Dental_Bruxism_ratio,,27.7,60,30,1.38,0.2558,OR,ratio
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,10.5,126,42,0.39,0.1913,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,10.5,126,42,0.42,0.1888,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,8,200,100,-0.02,0.1403,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,8,200,100,0,0.1403,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,8.5,100,50,-4.67,0.3878,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,8.5,100,50,-0.64,0.2066,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,11,122,61,1.96,0.2194,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,11,122,61,2.01,0.2219,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9.5,270,135,0.35,0.1224,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,50,25,-0.03,0.7628,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,60,30,0.39,0.2602,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,60,30,0.57,0.2653,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,282,257,-0.18,0.0893,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,270,135,0.3,0.1505,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,270,135,0.23,0.1352,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,270,135,0.49,0.125,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,91,47,-0.23,0.3265,SMD,SMD
+Dental_Caries severity,Dental,Dental_Caries severity_SMD,,9,50,25,0.14,0.6505,SMD,SMD
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,4.2,,257,0.2568,0.02725,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,10,,93,0.2258,0.04336,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,7.8,,114,0.2456,0.04031,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,11,,74,0.1486,0.04135,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,9,,30,0.1333,0.06206,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,4.9,,257,0.2218,0.02592,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,8.1,,11,0.2727,0.13428,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,11.4,,61,0.3934,0.06255,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,12.7,,285,0.0456,0.01236,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,7.7,,136,0.1838,0.03321,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,7.6,,30,0.2333,0.07722,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,27.7,,30,0.2,0.07303,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,12,,16,0.38,0.1276,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,9.2,,46,0.3,0.0714,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,5.75,,47,0.32,0.0714,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,8.7,,64,0.52,0.0638,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,4,,96,0.3,0.0485,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,10.5,,42,0.07,0.0459,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,10,,173,0.32,0.0357,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,7.24,,94,0.14,0.0357,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,10,,142,0.14,0.0306,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_frequency,,9,,200,0.14,0.0255,frequency,frequency
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,10.5,126,42,3.15,0.9315,OR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,4,192,96,1.75,0.3398,OR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,10,346,173,4.01,0.2975,OR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,9,400,200,1.39,0.3078,OR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,5.75,91,47,1.41,0.4689,OR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,4.2,514,257,1.57,0.1768,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,10,186,93,1.5,0.3137,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,7.8,228,114,0.6,0.2011,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,9,223,46,3.59,0.3327,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,9,128,64,1.74,0.2277,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,11,139,74,0.74,0.3708,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,9,60,30,2,0.8239,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,4.9,514,257,1.08,0.1701,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,8.1,87,11,5.18,0.6931,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,11.4,122,61,1.5,0.2665,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,12.7,407,285,5.56,1.0307,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,7.7,272,136,1.56,0.2973,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,7.6,60,30,7,1.0364,RR,ratio
+Dental_dentoalveolar trauma,Dental,Dental_dentoalveolar trauma_ratio,,27.7,60,30,0.67,0.4602,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,8.45,126,42,1.01,0.0428,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,9,174,75,0.99,0.0741,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,9,60,30,2,0.3479,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,0.932,220,55,1.3,0.1435,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,8.12,40,20,1.12,0.3672,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,7.29,100,50,1.75,0.3013,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,9.31,346,173,1.18,0.0666,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,8.45,122,61,2.36,0.1554,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,12.84,144,51,1.63,0.2857,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,9.7,80,32,5.36,0.3613,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,9.09,95,44,0.87,0.1499,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,7.5,217,106,0.52,0.1492,RR,ratio
+Dental_gingivitis,Dental,Dental_gingivitis_ratio,,5.46,92,69,2.67,0.3211,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,9,100,50,7.19,0.5425,OR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,10,80,32,3.98,0.6842,OR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,9,91,47,0.71,0.5166,OR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,8.45,126,42,7.33,0.6235,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,9,174,75,0.88,0.5019,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,9,128,64,8,1.0458,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,9,60,30,1.67,0.6814,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,8.45,122,61,4,0.3259,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,11.9,136,32,2.64,0.3137,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,8.12,68,34,3.4,0.4464,RR,ratio
+Dental_poor oral hygiene,Dental,Dental_poor oral hygiene_ratio,,9.2,40,20,0.94,0.171,RR,ratio
+Dermititis,Allergy,Atopic eczema_ratio,,8.5,"33,390",5565,1.02,0.0901,OR,ratio
+Dermititis,Allergy,Atopic eczema_ratio,,15,"33,390",5565,1.13,0.0988,OR,ratio
+Dermititis,Allergy,Atopic eczema_ratio,,5,"33,390",5565,1.06,0.1328,OR,ratio
+Dermititis,Allergy,Atopic eczema_ratio,,22.5,"33,390",5565,1.53,0.2332,OR,ratio
+Diabetes,Metabolic disease,Metabolic disease_frequency,,23.5,,116,0.035,0.01706,frequency,frequency
+Diabetes,Metabolic disease,Metabolic disease_frequency,,34.5,,67,0.045,0.02533,frequency,frequency
+Diabetes,Metabolic disease,Metabolic disease_frequency,,48,,72,0.069,0.02987,frequency,frequency
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,9.5,131191,593,3.981,0.1383,OR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,38.1,22730,7060,1.192,0.3704,OR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,36.5,980,462,0.91,0.1412,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,12.6,79188,1062,1.26,0.4088,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,3.8,34413,3440,7,0.2003,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,29,15088,1507,1.75,0.0987,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,18.4,20623,4123,0.5,0.2052,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,78,"319,775",57,1.34,0.2319,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,9,"427,907","7,902",1.91,0.1116,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,34,898489,"5,372",1.9,0.0668,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,57,356004,590,1.41,0.099,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,9.3,84816,483,1.38,0.7045,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,71.3,165,4685,1.34,0.021,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,28.5,466868,155617,0.92,0.0084,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,28.8,225,108,0.83,0.4408,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,34.1,5336,1772,0.76,0.1364,RR,ratio
+Diabetes mellitus (NS),Metabolic disease,Diabetes mellitus_ratio,,20.4,393283,5095,2.57,0.1095,RR,ratio
+Diabetes mellitus (T1DM),Metabolic disease,Diabetes mellitus_ratio,,9.7,22329,301,1.66,0.7134,RR,ratio
+Diabetes mellitus (T1DM),Metabolic disease,Diabetes mellitus_ratio,,17.5,6412,1598,4,0.707,RR,ratio
+Diabetes mellitus (T1DM),Metabolic disease,Diabetes mellitus_ratio,,26,1147284,5276,1.75,0.1717,RR,ratio
+Diabetes mellitus (T1DM),Metabolic disease,Diabetes mellitus_ratio,,8.5,1246494,9105,3.08,0.1126,RR,ratio
+Diabetes mellitus (T1DM),Metabolic disease,Diabetes mellitus_ratio,,17.5,1842583,4790,0.71,0.2224,RR,ratio
+Diabetes mellitus (T1DM),Metabolic disease,Diabetes mellitus_ratio,,41,1222,1156,1.63,0.1923,RR,ratio
+Diabetes mellitus (T1DM),Metabolic disease,Diabetes mellitus_ratio,,12.2,27835,5565,1.15,0.3184,RR,ratio
+Diabetes mellitus (T2DM),Metabolic disease,Diabetes mellitus_ratio,,15.3,24492,6122,4.13,0.145,RR,ratio
+Diabetes mellitus (T2DM),Metabolic disease,Diabetes mellitus_ratio,,8.8,243823,48762,2.66,0.0537,RR,ratio
+Diabetes mellitus (T2DM),Metabolic disease,Diabetes mellitus_ratio,,41,1225,1156,1.27,0.2477,RR,ratio
+Dyslipidemia,Metabolic disease,Metabolic disease_ratio,,15.3,24519,6122,1.28,0.1026,RR,ratio
+Dyslipidemia,Metabolic disease,Metabolic disease_ratio,,29,15116,1507,1.51,0.0524,RR,ratio
+Dyslipidemia,Metabolic disease,Metabolic disease_ratio,,18.4,20674,4123,4.49,0.1187,RR,ratio
+Dyslipidemia,Metabolic disease,Metabolic disease_ratio,,28.5,466920,155617,1.1,0.0069,RR,ratio
+Dyslipidemia,Metabolic disease,Metabolic disease_ratio,,8.8,243979,48762,1.97,0.0285,RR,ratio
+Dyslipidemia,Metabolic disease,Metabolic disease_ratio,,28.8,277,108,1.66,0.2018,RR,ratio
+Dyslipidemia,Metabolic disease,Metabolic disease_ratio,,41,1334,1156,1.3,0.1491,RR,ratio
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,19.7,,3,0.333,0.1862,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,11,,13,0.846,0.0969,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,24,,22,0.818,0.0816,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,12,,37,0.432,0.0765,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,11.3,,40,0.4,0.074,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,11,,20,0.9,0.0689,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,9.9,,37,0.243,0.0689,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,6.8,,54,0.574,0.0663,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,24,,27,0.852,0.0663,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,8.36,,60,0.4,0.0612,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,17,,25,0.04,0.0485,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,11.2,,49,0.102,0.0459,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,10.2,,34,0.059,0.0434,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,9.37,,99,0.162,0.0383,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,13.9,,42,0.048,0.0383,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,6.7,,101,0.168,0.0357,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,11.5,,112,0.179,0.0357,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,10,,143,0.294,0.0357,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,9.7,,217,0.585,0.0332,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,12.7,,50,0.04,0.0306,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,5.52,,203,0.768,0.0281,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,29,,63,0.048,0.0281,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,8.4,,201,0.194,0.0255,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,11.95,,50,0.02,0.0255,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,49.9,,148,0.081,0.023,frequency,frequency
+Elimination disorder,Neuropsy,Elimination disorder_frequency,,44.5,,255,0.133,0.0204,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,14.17,,64,0.25,0.05413,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.8,,46,0.1304,0.04965,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,14.95,,63,0.4444,0.0626,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.5,,56,0.2857,0.06037,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10.75,,78,0.4103,0.0557,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8.9,,187,0.1818,0.0282,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,28.6,,39,0.3333,0.07548,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.78,,27,0.3704,0.09294,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.5,,52,0.2692,0.06151,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,17.08,,21,0.5238,0.10899,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,15,,232,0.1466,0.02322,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,12.41,,106,0.2358,0.04123,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.58,,102,0.2255,0.04138,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.44,,302,0.1424,0.02011,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,14.1,,192,0.2135,0.02957,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8.17,,145,0.0759,0.02199,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5.4,,280,0.0571,0.01387,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11,,120,0.3583,0.04377,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.8,,76,0.1184,0.03706,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,4,,690,0.2899,0.01727,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.5,,130,0.2538,0.03817,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.24,,68,0.1471,0.04295,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,3.4,,41,0.0732,0.04068,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11.5,,158,0.3924,0.03885,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.4,,231,0.1558,0.02386,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,16.9,,220,0.1045,0.02062,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,4.3,,39,0.3333,0.07548,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8.5,,13111,0.042,0.00175,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,2.6,,57,0.0175,0.01737,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,58,0.1034,0.03998,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,80,0.2,0.04472,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10,,375,0.076,0.01368,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,23.5,,116,0.112,0.02928,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,34.5,,67,0.224,0.05094,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,48,,72,0.292,0.05358,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,487,0.308,0.02092,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,4.08,,274,0.146,0.02133,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,21.6,,34237,0.2135,0.00221,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11.9,,2162,0.0981,0.0064,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10.3,,5226,0.0911,0.00398,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,23.2,,2917,0.155,0.0067,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,26.5,,195,0.1692,0.02685,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,20.5,,60,0.3833,0.06277,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10,,8760,0.0287,0.00178,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,2.9,,100,0.06,0.02375,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,29.2,,5276,0.1063,0.00424,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,29.2,,9105,0.2455,0.00451,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.2,,4910,0.0919,0.00412,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.46,,303,0.2013,0.02304,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10,,610,0.082,0.01111,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.4,,91,0.1868,0.04086,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.91,,405,0.6642,0.02347,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5,,2114,0.0251,0.0034,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.2,,1221,0.0344,0.00522,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,12,,105,0.1048,0.02989,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.5,,8398,0.1266,0.00363,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5.5,,331,0.0937,0.01602,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,13,,267,0.0712,0.01574,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5.5,,331,0.0937,0.01602,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,18,,20492,0.0634,0.0017,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,15,,74,0.2568,0.05078,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11,,86,0.0814,0.02949,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.59,,192,0.1146,0.02299,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.2,,728,0.122,0.01213,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9,,2623,0.049,0.00421,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.5,,120,0.775,0.03812,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.7,,197,0.4313,0.03529,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.6,,212,0.3302,0.0323,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,4316,0.1816,0.00587,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,15.66,,70,0.2,0.04781,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,3.5,,2959,0.0382,0.00352,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,17420,0.0521,0.00168,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,14.5,,15086,0.0704,0.00208,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,21,,8370,0.1092,0.00341,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,37,,2722,0.1176,0.00617,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,60,,386,0.0466,0.01073,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,3.5,,3440,0.0541,0.00386,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,19527,0.074,0.00187,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,14.5,,12954,0.1038,0.00268,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,21,,6716,0.1662,0.00454,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,37,,3807,0.2309,0.00683,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,60,,252,0.2063,0.02549,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7,,2923,0.0284,0.00307,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,14.5,,3371,0.0406,0.0034,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,21,,2467,0.0786,0.00542,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,37,,1667,0.141,0.00852,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,60,,428,0.1495,0.01724,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,4,,783,0.0281,0.00591,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,1091,0.0302,0.00518,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10.81,,167,0.097,0.0229,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.71,,746,0.106,0.01127,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,3,,120,0.05,0.0199,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6,,296,0.0541,0.01315,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.5,,522,0.09,0.01253,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,13,,334,0.1168,0.01757,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,16,,332,0.1295,0.01843,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5,,922,0.039,0.00638,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,788,0.0431,0.00723,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11,,495,0.0566,0.01039,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,14,,299,0.1003,0.01737,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,17,,141,0.078,0.02258,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,24,,22,0.455,0.0969,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11,,13,0.077,0.0816,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.7,,41,0.268,0.0663,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7,,37,0.216,0.0663,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9,,23,0.087,0.0638,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.7,,59,0.441,0.0638,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.3,,49,0.224,0.0587,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,25.5,,73,0.411,0.0561,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,24,,48,0.188,0.0561,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5.71,,54,0.241,0.0561,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,25.5,,55,0.255,0.0561,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.7,,34,0.118,0.0561,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,26.5,,28,0.071,0.0536,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10.1,,77,0.351,0.0536,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,7.7,,90,0.456,0.051,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,13.5,,59,0.169,0.0485,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,12.5,,54,0.148,0.0485,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,25.5,,108,0.398,0.0459,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.8,,57,0.14,0.0459,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,36.1,,92,0.293,0.0459,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,30,,83,0.181,0.0434,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,48.5,,89,0.225,0.0434,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8.5,,118,0.737,0.0408,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,4.85,,104,0.192,0.0383,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5,,62,0.097,0.0383,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,13.3,,81,0.148,0.0383,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,52.4,,143,0.252,0.0357,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,21,,130,0.254,0.0357,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9,,89,0.101,0.0332,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.58,,112,0.152,0.0332,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,33.3,,147,0.177,0.0332,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,32.61,,150,0.22,0.0332,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,49.9,,148,0.23,0.0332,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,4,,50,0.04,0.0306,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,28.5,,150,0.193,0.0306,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6,,160,0.138,0.0281,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6,,160,0.138,0.0281,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,24.04,,191,0.152,0.0255,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,4.11,,106,0.047,0.023,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,44.5,,255,0.192,0.023,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,10.5,,345,0.249,0.023,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11,,328,0.244,0.023,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,295,0.241,0.023,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,11.4,,100,0.04,0.0204,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,6.5,,125,0.056,0.0204,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.6,,177,0.062,0.0179,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.3,,1014,0.37,0.0153,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,0.9,,577,0.109,0.0128,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5.52,,203,0.03,0.0128,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,29,,1507,0.119,0.0102,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,29,,1772,0.227,0.0102,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,67,,4685,0.264,0.0077,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,634,0.054,0.0077,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8.3,,883,0.093,0.0077,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,3.81,,3440,0.136,0.0077,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,2568,0.155,0.0077,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8.5,,2352,0.112,0.0077,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,17.5,,4790,0.159,0.0051,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,12,,5651,0.05,0.0051,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,5.5,,4705,0.066,0.0026,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,12.54,,20194,0.045,0.0026,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,7773,0.049,0.0026,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,8,,2352,0.026,0.0026,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9.7,,8325,0.082,0.0026,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,18.39,,4123,0.085,0.0026,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,18.3,,4180,0.055,0.0026,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,9,,16940,0.013,0.0001,frequency,frequency
+Epilepsy,Neuropsy,Epilepsy_frequency,,38.5,,35929,0.052,0.0001,frequency,frequency
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,12.78,91,31,-0.4634,0.2238,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,12.78,91,31,-0.9632,0.2324,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,20.5,26,13,-0.2551,0.394,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,20.5,26,13,-0.4995,0.3987,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,16.6,61,29,-0.388,0.2588,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,12,34,17,-0.1147,0.3432,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,12,34,17,-0.5304,0.349,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,12,34,17,-0.8359,0.3576,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,12,34,17,-1.0217,0.3647,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,12,34,17,-1.2375,0.3744,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,11,89,34,-0.2437,0.2189,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,11,89,34,-0.4889,0.2214,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,11,89,34,-0.5191,0.2216,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,20.4,36,21,-0.0976,0.3338,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,20.4,36,21,-0.1681,0.3345,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,20.4,36,21,-0.7302,0.3493,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,15.08,35,10,0,0.3742,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,15.08,35,10,-0.2191,0.3751,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,15.08,35,10,-0.3316,0.3763,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,15.08,35,10,-0.4077,0.3774,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,15.7,31,13,-0.5246,0.3704,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,9.5,40,20,0.0173,0.3162,SMD,SMD
+Eye_contrast sensitivity,Sensation,Eye_contrast sensitivity_SMD,,32.6,40,20,-0.4042,0.3195,SMD,SMD
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,7.4,10876743,61167,1.4594,0.01,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,7.4,10876743,61167,1.3076,0.0387,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,7.4,10876743,61167,0.9198,0.0574,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,12.1,95,51,1.2714,0.5628,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,49.6,454,118,0.4693,0.3135,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,49.6,454,118,0.8428,0.6796,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,49.6,454,118,1.3596,0.7714,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,49.6,454,118,2,0.8437,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,49.6,454,118,2.4702,1.1233,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,30,3746584,6649,1.4485,0.0374,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,7.5,916331,17348,2.3605,0.0458,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,7.5,916331,17348,1.972,0.0624,OR,ratio
+Eye_General vision problem,Sensation,Eye_General vision problem_ratio,,10.3,85482,1624,1.5886,0.1086,OR,ratio
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,10.6,64,31,-0.6461,0.2565,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,12.78,91,31,0,0.2347,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,10.9,319,113,-0.2054,0.1175,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,38.93,30,15,4.1076,0.6438,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,19.8,60,34,0.036,0.2606,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,13.85,26,13,1.8354,0.4675,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,15.05,44,22,-0.5016,0.506,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,15.05,44,22,-1.7661,0.669,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,24.9,49,24,-0.3394,0.2877,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,19.63,34,19,-0.0058,0.3454,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,19.63,34,19,-0.1553,0.346,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,19.63,34,19,-0.332,0.3479,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,19.63,34,19,-0.3426,0.348,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,13.28,66,27,0.0096,0.2504,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,13.28,66,27,0.6888,0.2575,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,30.4,40,20,-0.086,0.3164,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,30.4,40,20,-0.3407,0.3186,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,39.5,66,33,0,0.2462,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,39.5,66,33,-0.1657,0.2466,SMD,SMD
+Eye_Visual acuity,Sensation,Eye_Visual acuity_SMD,,39.5,66,33,-0.2298,0.247,SMD,SMD
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,12.8,,25,0.12,0.06499,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,5.5,,100,0.07,0.02551,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,6.8,,54,0.3148,0.0632,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,11.3,,40,0.125,0.05229,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,12.7,,40,0.025,0.02469,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,12.7,,18,0.0556,0.05399,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,8.5,,34,0.142,0.05986,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,11.5,,112,0.066,0.02346,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,10,,59,0.0508,0.0286,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,6.83,,78,0.6538,0.05387,frequency,frequency
+fecal incontinence,Neuropsy,Elimination disorder_frequency,Fecal incontinence_frequency,6.5,,24,0.875,0.06751,frequency,frequency
+Food allergy,Allergy,Allergic disease_frequency,,3.5,,220,0.1864,0.02625,frequency,frequency
+Food allergy,Allergy,Allergic disease_frequency,,4.8,,107,0.8224,0.03694,frequency,frequency
+Food allergy,Allergy,Allergic disease_frequency,,7.6,,26,0.9615,0.03771,frequency,frequency
+Food allergy,Allergy,Allergic disease_frequency,,10,,375,0.096,0.01521,frequency,frequency
+Food allergy,Allergy,Allergic disease_frequency,,12.15,,5565,0.0088,0.00125,frequency,frequency
+Food allergy,Allergy,Food allergy_ratio,,10,35775,375,2.4,0.2207,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,15,"33,390",5565,1.32,0.3015,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,8.5,"33,390",5565,2.22,0.245,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,5,"33,390",5565,2.11,0.364,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,3.5,114,45,0.74,0.6448,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,7.44,109,59,0.71,0.6423,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,7,38639,3911,1.64,0.1034,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,1.75,40325,195,2,0.2217,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,3.5,823,499,2.4,0.2062,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,2.5,16490,220,3.59,0.1763,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,10,84889,483,4.5,0.2161,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,12.5,111,61,1.66,1.2333,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,3.5,441,560,2.23,0.2836,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,6.94,227,115,2.85,0.4998,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,9.5,52595,905,2.64,0.0999,OR,ratio
+Food allergy,Allergy,Food allergy_ratio,,10,197787,1868,2.9,0.0726,OR,ratio
+Gait abnormalities,Neuropsy,Motor disease_frequency,,9.2,,728,0.246,0.01596,frequency,frequency
+GI problem,GI,Gastrointestinal problem,,10,,80,0.539,0.056,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8.4,,50,0.5,0.07071,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,375,0.026,0.00822,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8,,487,0.0719,0.0117,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9.5,,3763,0.2142,0.00669,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,59,0.4237,0.06433,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9.2,,728,0.424,0.01832,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,2623,0.427,0.00966,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9.5,,120,0.1417,0.03184,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,7.7,,197,0.2437,0.03059,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,7.6,,212,0.1085,0.02136,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8,,4316,0.0343,0.00277,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3.5,,59,0.4915,0.06509,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,96,0.4896,0.05102,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,15.5,,9,0.4444,0.16563,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,80,0.4,0.05477,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,"83,500",1,0.00173,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,7.5,,40,0.825,0.06008,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,4,,96,0.0938,0.02976,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,4.5,,176,0.9318,0.019,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,22,,"2,187",1,0.01068,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,118,0.8051,0.03647,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,421,0.323,0.02279,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,44,,107,0.8598,0.03356,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,20,0.35,0.10665,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,102,0.5196,0.04947,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,7,,51,0.549,0.06968,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,129,0.8217,0.0337,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,121,0.719,0.04086,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,56,1,0.0001,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,17,,"14,381",0,0.00268,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,12,,58,0.3448,0.06241,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,107,0.2617,0.04249,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8,,37,0.5135,0.08217,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6,,336,0.253,0.02372,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,120,0.8417,0.03332,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,87,0.7931,0.04343,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,12,,56,0.7321,0.05918,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,100,0.68,0.04665,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,"2,973",0.2466,0.00791,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,5,,137,0.2409,0.03653,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,29,,118,0.3051,0.04239,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,172,0.2267,0.03193,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,27,,845,0.3053,0.01584,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,38,,79,0.3165,0.05233,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,205,0.2146,0.02867,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,7,,39,0.8718,0.05353,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,51,0.3529,0.06692,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,473,0.1712,0.01732,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,50,0.7,0.06481,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,50,0.66,0.06699,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8,,"3,253",0,0.00847,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,657,0.3973,0.01909,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,10,,589,0.4228,0.02036,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,36,0.69,0.0816,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,69,0,0.0587,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8,,131,0.58,0.0459,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3.6,,163,0.26,0.0357,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,4.72,,323,0.48,0.0278,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,5,,328,0,0.0276,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,24,,27,0.704,0.1148,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11,,20,0.65,0.0995,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9,,23,0.435,0.0944,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,13.5,,23,0.261,0.0842,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8.1,,35,0.429,0.0791,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,37,,43,0.488,0.0714,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6.8,,54,0.481,0.0663,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6,,47,0.702,0.0638,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,48.5,,89,0.404,0.051,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,13.5,,59,0.153,0.0485,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,12.75,,95,0.611,0.0485,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3.8,,115,0.374,0.0459,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8.9,,89,0.247,0.0459,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,11.6,,132,0.462,0.0434,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,5.4,,118,0.373,0.0434,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,49.9,,148,0.459,0.0408,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,52.4,,143,0.497,0.0408,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6,,160,0.588,0.0383,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6,,160,0.588,0.0383,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,5,,169,0,0.0357,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,30,,83,0.12,0.0357,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,2.25,,195,0.692,0.0332,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8.36,,136,0.824,0.0332,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,5.21,,154,0.247,0.0332,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6,,159,0.226,0.0332,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6.3,,247,0.478,0.0306,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3,,255,0.478,0.0306,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,7.16,,158,0.139,0.0281,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,44.5,,255,0.208,0.0255,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,6.11,,340,0.65,0.0255,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,12,,82,0.049,0.0255,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,8.48,,610,0.411,0.0204,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,13.79,,512,0.738,0.0179,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3.5,,1244,0.441,0.0153,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3.5,,633,0.188,0.0153,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3.5,,499,0.074,0.0128,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,29,,1507,0.347,0.0128,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9.03,,2756,0.377,0.0102,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,3.5,,560,0.05,0.0102,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,2,,403,0.025,0.0102,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,67,,4685,0.486,0.0077,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,29,,1772,0.126,0.0077,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,1,,417,0.019,0.0077,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,18.39,,4123,0.057,0.0051,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,5.9,,3335,0.137,0.0051,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,9.5,,5053,0.281,0.0051,frequency,frequency
+GI problem,GI,Gastrointestinal problem_frequency,,17.5,,4790,0.093,0.0026,frequency,frequency
+GI_abdominal pain,GI,Gastrointestinal problem_frequency,,10,,59,0,0.0001,frequency,frequency
+GI_abdominal pain,GI,Gastrointestinal problem_ratio,,7.4,66,33,1.52,0.5311,OR,ratio
+GI_abdominal pain,GI,Gastrointestinal problem_ratio,,7,104,51,4.06,0.8281,OR,ratio
+GI_abdominal pain,GI,Gastrointestinal problem_ratio,,6.5,455,412,7.64,0.5344,OR,ratio
+GI_abdominal pain,GI,Gastrointestinal problem_ratio,,9.7,198,51,2.42,0.5327,OR,ratio
+GI_abdominal pain,GI,Gastrointestinal problem_ratio,,7.6,200,50,1,0.8447,OR,ratio
+GI_abdominal pain,GI,Gastrointestinal problem_ratio,,8.3,1308,589,1.39,1.5385,OR,ratio
+GI_abdominal pain,GI,Gastrointestinal problem_ratio,,10,103,59,0.5177,0.3633,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_frequency,,20,,98,0,0.04983,frequency,frequency
+GI_constipation,GI,Gastrointestinal problem_frequency,,24,,116,0,0.037,frequency,frequency
+GI_constipation,GI,Gastrointestinal problem_frequency,,35,,67,0,0.05736,frequency,frequency
+GI_constipation,GI,Gastrointestinal problem_frequency,,48,,72,0.319,0.05493,frequency,frequency
+GI_constipation,GI,Gastrointestinal problem_frequency,,6.8,,54,0.2778,0.06095,frequency,frequency
+GI_constipation,GI,Gastrointestinal problem_frequency,,10,,59,0.32,0.06073,frequency,frequency
+GI_constipation,GI,Gastrointestinal problem_frequency,,3.8,,115,0.339,0.04414,frequency,frequency
+GI_constipation,GI,Gastrointestinal problem_ratio,,7.4,66,33,7.88,0.5789,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_ratio,,7,104,51,5.13,0.6804,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_ratio,,6.5,455,412,0.86,0.6322,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_ratio,,9.7,198,51,7.32,0.5588,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_ratio,,7.6,200,50,4.13,0.4798,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_ratio,,8.3,1308,589,6.42,0.4287,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_ratio,,10,103,59,2.138,0.48,OR,ratio
+GI_constipation,GI,Gastrointestinal problem_ratio,,3.85,230,115,2.96,0.97,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_frequency,,6.9,,20,0.1,0.06708,frequency,frequency
+GI_diarrhea,GI,Gastrointestinal problem_frequency,,10,,375,0.068,0.013,frequency,frequency
+GI_diarrhea,GI,Gastrointestinal problem_frequency,,6.8,,54,0.2593,0.05964,frequency,frequency
+GI_diarrhea,GI,Gastrointestinal problem_frequency,,10,,59,0.11,0.04073,frequency,frequency
+GI_diarrhea,GI,Gastrointestinal problem_frequency,,3.8,,115,0.122,0.03052,frequency,frequency
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,7.4,66,33,1.52,0.6491,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,4.23,545,96,14.12,1.6373,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,7,104,51,5.65,1.1127,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,6.5,455,412,19.8,1.0169,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,9.7,198,51,6.69,0.5244,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,7.6,200,50,5.27,0.8093,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,8.3,1308,589,9.23,0.5171,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,10,35775,375,7.1,0.3032,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,10,103,59,2.377,0.8422,OR,ratio
+GI_diarrhea,GI,Gastrointestinal problem_ratio,,3.85,230,115,2.52,1.28,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,4.23,545,96,1.03,0.3884,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,7,104,51,14.91,0.5913,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,6.5,455,412,12.1,0.358,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,7,80,58,48.25,0.7173,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,9.7,198,51,11.67,0.5436,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,7.6,200,50,6,0.4408,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,6.891666667,220,57,5.24,0.253,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,8.3,1308,589,4.07,0.3521,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,10,35775,375,2.6,0.2118,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,5.4,454,118,0.993,0.2323,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,8.9,347,89,1.474,0.2939,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,3.85,230,115,3.44,1.12,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,1.75,40315,195,20.67,0.5819,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,4.72,142,323,3.74,0.2173,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,3.5,1254,1244,3.85,0.0896,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,9.2,356,107,3.04,0.3025,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,4,184,94,7.35,0.3432,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,4.63,948,656,3.86,0.1348,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,4.63,873,656,4.23,0.2618,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,10.3,103,59,1.75,0.421,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,8.59,138,69,1.55,0.3849,OR,ratio
+GI_GI problems,GI,Gastrointestinal problem_ratio,,5.1,212,328,2.82,0.1954,OR,ratio
+GI_nausea,GI,Gastrointestinal problem_frequency,,3.8,,115,0.017,0.01205,frequency,frequency
+GI_vomiting,GI,Gastrointestinal problem_frequency,,10,,59,0.03,0.02221,frequency,frequency
+GI_vomiting,GI,Gastrointestinal problem_frequency,,3.8,,115,0.07,0.02379,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,7.5,,17348,0.0294,0.00128,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,20,,7715,0.0388,0.0022,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,10.81,,167,0.073,0.02013,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,9.71,,746,0.062,0.00883,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,3,,35,0.257,0.0714,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,36.1,,92,0.12,0.0332,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,52.4,,143,0.119,0.0255,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,13.5,,59,0.017,0.023,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,13.3,,81,0.025,0.0204,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,11.4,,100,0.01,0.0128,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,11.25,,199,0.035,0.0128,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,29,,1772,0.185,0.0077,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,29,,1507,0.047,0.0051,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,21,,1409,0.016,0.0026,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,8,,2568,0.017,0.0026,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,8,,2352,0.006,0.0026,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,8,,7773,0.014,0.0026,frequency,frequency
+Hearing Disorder,Sensation,Hearing disease_frequency,,18.39,,4123,0.019,0.0001,frequency,frequency
+Hearing impairment,Sensation,Hearing disease_frequency,,3.875,,180,0.7423,0.0326,frequency,frequency
+Hearing impairment,Sensation,Hearing disease_frequency,,8.335,,100,0.05,0.02179,frequency,frequency
+Hearing impairment,Sensation,Hearing disease_frequency,,9,,785,0.0204,0.00505,frequency,frequency
+Hearing impairment,Sensation,Hearing disease_frequency,,8,,308,0.0548,0.01297,frequency,frequency
+Hearing impairment,Sensation,Hearing disease_frequency,,11,,37828,0.0184,0.00069,frequency,frequency
+Hearing impairment,Sensation,Hearing disease_frequency,,10.2,,3750,0.2365,0.00694,frequency,frequency
+Hearing impairment,Sensation,Hearing disease_frequency,,8,,5590,0.0704,0.00342,frequency,frequency
+Hearing loss,Sensation,Hearing disease_frequency,,7.32,,199,0.035,0.01303,frequency,frequency
+Hyperlipidemia,Metabolic disease,Metabolic disease_frequency,,23.5,,116,0.095,0.02722,frequency,frequency
+Hyperlipidemia,Metabolic disease,Metabolic disease_frequency,,34.5,,67,0.328,0.05736,frequency,frequency
+Hyperlipidemia,Metabolic disease,Metabolic disease_frequency,,48,,72,0.361,0.0566,frequency,frequency
+Hypertension,Metabolic disease,Metabolic disease_frequency,,23.5,,116,0.129,0.03112,frequency,frequency
+Hypertension,Metabolic disease,Metabolic disease_frequency,,34.5,,67,0.105,0.03745,frequency,frequency
+Hypertension,Metabolic disease,Metabolic disease_frequency,,48,,72,0.278,0.0528,frequency,frequency
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,36.5,1367,462,0.83,0.1022,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,15.3,24889,6122,1.01,0.1413,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,29,15130,1507,1.64,0.0482,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,78,"319,775",57,0.72,0.1441,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,9,"427,999","7,902",3.33,0.1584,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,34,898489,"5,372",1.26,0.0506,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,57,356004,590,0.89,0.0634,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,71.3,385,4685,1.3,0.0118,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,49.6,454,118,0.63,0.7723,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,11.67,33536,119,1.11,0.2046,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,28.5,466885,155617,0.88,0.0059,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,8.8,243859,48762,2.03,0.0527,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,28.8,241,108,1,0.2434,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,41,1223,1156,0.78,0.1195,RR,ratio
+Hypertension,Metabolic disease,Metabolic disease_ratio,Hypertension_ratio,20.4,393285,5095,2.01,0.1097,RR,ratio
+Metabolic Disorder,Metabolic disease,Metabolic disease_frequency,,1,,56,0.089,0.0383,frequency,frequency
+Metabolic Disorder,Metabolic disease,Metabolic disease_frequency,,36.1,,92,0.011,0.0153,frequency,frequency
+Metabolic Disorder,Metabolic disease,Metabolic disease_frequency,,10.25,,300,0.047,0.0128,frequency,frequency
+Metabolic Disorder,Metabolic disease,Metabolic disease_frequency,,18.39,,4123,0.035,0.0026,frequency,frequency
+Metabolic Disorder,Metabolic disease,Metabolic disease_frequency,,7.3,,443,0.002,0.0026,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,4,,783,0.2158,0.0147,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,8,,1091,0.2686,0.01342,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,8,,7773,0.296,0.1148,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,10.5,,26,0.846,0.0714,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,30.2,,50,0.68,0.0638,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,13.5,,72,0.681,0.0536,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,8.1,,122,0.533,0.0459,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,10,,145,0.097,0.0255,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,9.1,,660,0.236,0.0153,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,6,,1874,0.247,0.0102,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,10,,863,0.043,0.0077,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,8,,2352,0.157,0.0077,frequency,frequency
+Motor Problem,Neuropsy,Motor disease_frequency,,9.5,,11814,0.869,0.0026,frequency,frequency
+Movement,Neuropsy,Motor disease_frequency,,9.2,,728,0.129,0.01242,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,12.8,,25,0.16,0.07332,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,5.5,,100,0.11,0.03129,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,6.8,,54,0.4074,0.06686,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,11.3,,40,0.3,0.07246,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,8.6,,20,0.9,0.06708,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,12.7,,40,0.025,0.02469,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,12.7,,18,0.0556,0.05399,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,9.53,,31,0.2258,0.07509,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,8.5,,34,0.088,0.04858,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,11.5,,112,0.11,0.02957,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,6.83,,78,0.5897,0.05569,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,6.5,,24,0.875,0.06751,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,8.8,,49,0.1837,0.05532,frequency,frequency
+nocturnal enuresis,Neuropsy,Elimination disorder_frequency,Urinary incontinence_frequency,8.4,,210,0.277,0.03088,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,23.5,,116,0.388,0.04524,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,34.5,,67,0.433,0.06053,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,48,,72,0.278,0.0528,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,8.7,,29,0.276,0.088,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,14.3,,33,0.303,0.0844,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,12.9,,28,0.821,0.0786,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,12.7,,32,0.875,0.05846,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,6.6,,71,0.282,0.0534,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,6.6,,75,0.267,0.0536,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,4.92,,111,0.243,0.0426,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,6.9,,97,0.186,0.0416,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,7.81,,105,0.076,0.0286,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,12.3,,36,0,0.0247,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,7.01,,40,0,0.0224,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10.64,,14,0.286,0.1208,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,7.5,,86,0.093,0.03132,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10,,454,0.304,0.02159,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,9.5,,256,0.152,0.02244,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10,,53,0.17,0.0516,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,7.5,,79,0.228,0.0472,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,13,,67,0.075,0.03218,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,13.5,,1144,0.233,0.0125,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,13.5,,93,0.323,0.04849,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10,,1073,0.244,0.01311,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,15,,159,0.245,0.03411,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,9.5,,2041,0.126,0.00735,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,6.4,,18,0.278,0.0995,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,13.5,,23,0.522,0.0969,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,4.5,,41,0.22,0.0638,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10,,42,0.19,0.0587,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,8.4,,69,0.406,0.0561,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10.5,,63,0.746,0.0536,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10.19,,85,0.471,0.0536,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,7.01,,40,0.1,0.0485,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10.5,,113,0.407,0.0459,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,2.5,,86,0.198,0.0408,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,11,,164,0.585,0.0383,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,9,,208,0.606,0.0332,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,7.9,,276,0.638,0.0281,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,3.89,,273,0.33,0.0281,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,5.5,,376,0.351,0.0255,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,6.5,,362,0.157,0.0204,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,5.1,,429,0.184,0.0179,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,29,,1507,0.339,0.0102,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,11,,2976,0.308,0.0077,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,9.5,,2769,0.521,0.0077,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,9.1,,1791,0.175,0.0077,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,9.5,,5053,0.336,0.0077,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,67,,4685,0.144,0.0051,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_frequency,,10,,48762,0.082,0.0001,frequency,frequency
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,6.6,111,53,1.24,0.4437,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,5.52,153,86,0.54,0.5,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,5.52,153,86,1.33,0.6394,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,15,215,118,0.72,0.2967,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,15,215,118,1.77,0.2827,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,11,6672,2976,1.87,0.0962,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,11,6672,2976,5.23,0.0835,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,10.6,98,49,0.35,0.5851,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,10.6,98,49,2.58,0.4732,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,29,16577,1507,1.41,0.0776,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,9.5,13897,5053,1.09,0.0375,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,9.5,13897,5053,1.1,0.0465,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,8.4,88,69,5,1.0665,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,8.4,88,69,9.32,1.4633,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,5.21,227,154,0.42,0.3996,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,5.21,227,154,0.53,0.4532,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,7.81,600,105,1.64,0.3962,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,14.5,8234,93,1.15,0.2611,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,14.5,8234,93,3.16,0.2235,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,14.7,13132,159,1.84,0.1856,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,14.7,13132,159,2.18,0.1859,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,10,292572,48762,1.85,0.0193,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,7.9,820,276,1.789,0.164,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,7.01,153,40,0.08,1.4187,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,6.6,130,71,1.847,0.3606,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,12.3,72,36,0.143,1.4821,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,10,85726,454,1.29,0.0711,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,9.5,592,256,1.46,0.2188,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,10,111,53,1.97,0.5263,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,7.5,429,79,1.63,0.2451,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,13,141,67,5.52,1.0831,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,6.5,921,362,1.54,0.2489,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,13.5,32312,1144,1.87,0.056,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,10,1347,1073,1.12,0.1268,OR,ratio
+Overweight/Obesity,BMI,BMI_overweight/obesity_ratio,,9.5,4082,2041,1.75,0.0987,OR,ratio
+Rhinitis,Allergy,Allergic disease_ratio,,8.5,"33,390",5565,1.24,0.0716,OR,ratio
+Rhinitis,Allergy,Allergic disease_ratio,,15,"33,390",5565,1.27,0.0623,OR,ratio
+Rhinitis,Allergy,Allergic disease_ratio,,22.5,"33,390",5565,1.53,0.1123,OR,ratio
+Rhinitis,Allergy,Allergic disease_ratio,,5,"33,390",5565,1.32,0.1933,OR,ratio
+Sleep abnormalities,Sleep,Sleep_sleep problem_frequency,,8.4,,50,0.4,0.06928,frequency,frequency
+Sleep abnormalities,Sleep,Sleep_sleep problem_frequency,,4,,783,0.2695,0.01586,frequency,frequency
+Sleep abnormalities,Sleep,Sleep_sleep problem_frequency,,8,,1091,0.3712,0.01463,frequency,frequency
+Sleep disorder,Sleep,Sleep_sleep problem_frequency,,9.2,,728,0.74,0.01626,frequency,frequency
+Sleep disorder,Sleep,Sleep_sleep problem_frequency,,9,,2623,0.723,0.00874,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,8,,487,0.4846,0.02265,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,3.5,,2959,0.0639,0.0045,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,8,,17420,0.0587,0.00178,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,14.5,,15086,0.0514,0.0018,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,21,,8370,0.057,0.00253,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,37,,2722,0.068,0.00483,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,60,,386,0.1036,0.01551,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,3.5,,3440,0.1279,0.00569,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,8,,19527,0.1022,0.00217,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,14.5,,12954,0.0885,0.0025,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,21,,6716,0.0788,0.00329,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,37,,3807,0.0699,0.00413,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,60,,252,0.0952,0.01849,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,3.5,,110,0.0636,0.02327,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,8,,2813,0.1322,0.00639,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,14.5,,3371,0.1439,0.00605,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,21,,2467,0.1577,0.00734,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,37,,1667,0.171,0.00922,frequency,frequency
+Sleep disturbances,Sleep,Sleep_sleep problem_frequency,,60,,428,0.1916,0.01902,frequency,frequency
+Sleep problems,Sleep,Sleep_sleep problem_frequency,,12.7,,40,0.375,0.07655,frequency,frequency
+Sleep problems,Sleep,Sleep_sleep problem_frequency,,12.7,,18,0.2778,0.10557,frequency,frequency
+Sleep problems,Sleep,Sleep_sleep problem_frequency,,8.8,,49,0.2449,0.06143,frequency,frequency
+Sleep problems,Sleep,Sleep_Sleep problem_ratio,,8.8,130,49,2.3193,0.3266,OR,ratio
+sleep_anxiety,Sleep,Sleep_Sleep anxiety_SMD,,11.53,937,60,0.2504,0.1336,SMD,SMD
+Sleep_awakening/hour,Sleep,Sleep_Night awakenings_SMD,,11.9,22,10,-0.258,0.4299,SMD,SMD
+Sleep_awakening/hour,Sleep,Sleep_Night awakenings_SMD,,5.5,34,22,1.3189,0.3929,SMD,SMD
+Sleep_awakening/hour,Sleep,Sleep_Night awakenings_SMD,,5.1,30,18,1.624,0.4276,SMD,SMD
+Sleep_awakening/hour,Sleep,Sleep_Night awakenings_SMD,,9.4,34,16,0.6395,0.3522,SMD,SMD
+Sleep_AWN/hour,Sleep,Sleep_Night awakenings_SMD,,12.7,20,8,0,0.4564,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,5.5,34,22,0.9565,0.3772,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,5.1,30,18,2.4602,0.4897,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,5.3,136,71,1.01,0.1811,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,8.5,212,122,0.31,0.1403,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,9.4,46,23,0.68,0.3036,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,4.7,266,104,1.82,0.1505,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,7.1,120,60,1.72,0.2143,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,6,546,212,0.26,0.0867,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,7.33,210,108,0.73,0.1429,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,8.2,274,106,0.69,0.1276,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,5,72,18,0.37,0.2755,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,8.1,66,35,0.77,0.2551,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,10.27,24,11,-0.07,0.4107,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,3.28,65,34,0.22,0.25,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,4.7,98,49,0.32,0.2015,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,9,77,35,0.56,0.2347,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,11.3,42,22,3.04,0.4643,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,9,403,31,0.11,0.1862,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,9.84,84,46,0.73,0.227,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,7.49,277,166,1.2,0.1327,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,7.53,99,59,0.54,0.2092,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,4.94,131,69,7.46,0.5,SMD,SMD
+Sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,5.23,341,169,0.5,0.1097,SMD,SMD
+sleep_bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,3.6,1203,734,0.8817,0.0618,SMD,SMD
+sleep_bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,13.5,718,249,0.246,0.0787,SMD,SMD
+sleep_bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,5.9,869,400,0.8393,0.071,SMD,SMD
+sleep_bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,8.7,870,401,0.5988,0.0695,SMD,SMD
+Sleep_bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,11.17,96,48,0.4368,0.2065,SMD,SMD
+sleep_bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,11.53,925,60,0.2255,0.1336,SMD,SMD
+sleep_Bedtime resistance,Sleep,Sleep_Bedtime resistance_SMD,,6.225,21,11,0.94,0.4668,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,5.5,34,22,0.0679,0.359,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,5.1,30,18,0.0791,0.3728,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,5.3,136,71,0.6,0.176,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,8.5,212,122,-0.29,0.1378,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,7.09,67,34,0.19,0.2449,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,9.4,46,23,0.5,0.2985,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,4.7,266,104,0.32,0.1276,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,7.1,120,60,0.55,0.1862,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,6,546,212,-0.27,0.0893,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,4.45,1158,193,0.5,0.0791,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,7.33,210,108,-0.03,0.1403,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,8.2,274,106,-0.08,0.125,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,5,72,18,0.9,0.2806,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,8.1,66,35,0.82,0.2577,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,10.27,24,11,0.38,0.4133,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,3.28,65,34,0.55,0.2526,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,4.7,98,49,-0.04,0.2015,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,9,77,35,0.12,0.2296,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,11.3,42,22,3.52,0.5077,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,9,403,31,0.21,0.1862,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,9.84,84,46,0.85,0.2296,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,11.66,119,64,0.91,0.1939,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,10.1,113,52,0.66,0.1939,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,7.49,277,166,-0.71,0.1276,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,16.88,29,19,-0.38,0.3929,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,9.12,47,12,0.55,0.3393,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,7.53,99,59,0.2,0.2041,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,4.94,131,69,0.13,0.176,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,9.6,310,67,0.66,0.1429,SMD,SMD
+Sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,5.23,341,169,0.04,0.1071,SMD,SMD
+sleep_daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,3.6,1203,734,0.7878,0.0613,SMD,SMD
+sleep_daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,13.5,718,249,1.465,0.0874,SMD,SMD
+sleep_daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,5.9,869,400,0.9276,0.0716,SMD,SMD
+sleep_daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,8.7,870,401,1.0425,0.0725,SMD,SMD
+sleep_daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,11.17,96,48,0.0065,0.2041,SMD,SMD
+sleep_daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,11.53,938,60,-0.7861,0.1347,SMD,SMD
+Sleep_daytime sleepiness,Sleep,Sleep_daytime sleepiness_SMD,,34.41,72,36,0.43,0.2398,SMD,SMD
+Sleep_daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,27.2,30,20,1.29,0.426,SMD,SMD
+sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,3.92,137,68,0.11,0.1709,SMD,SMD
+sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,6.225,21,11,0.81,0.4592,SMD,SMD
+sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,11.66,117,64,0.91,0.1939,SMD,SMD
+sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,10.1,113,52,0.66,0.1939,SMD,SMD
+sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,3.9,168,84,0.4,0.1556,SMD,SMD
+sleep_Daytime sleepiness,Sleep,Sleep_Daytime sleepiness_SMD,,4.8,219,73,0.28,0.1429,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,5.3,136,71,1.08,0.1837,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,8.5,212,122,0.55,0.1429,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,7.09,33,27,0.17,0.4515,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,9.4,46,23,1.27,0.324,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,8.89,50,21,1.31,0.3189,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,7.1,120,60,1.33,0.2015,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,6,546,212,0.28,0.0867,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,9,115,58,-0.86,0.1939,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,4.45,1158,193,0.37,0.0791,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,7.33,210,108,0.69,0.1429,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,8.1,66,35,1.05,0.2628,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,10.27,24,11,0.23,0.4107,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,3.28,65,34,0.58,0.2526,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,4.7,98,49,0.4,0.2041,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,9,77,35,0.33,0.2296,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,8.2,274,106,0.94,0.1301,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,5.7,157,93,1.15,0.1735,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,9,403,31,0.62,0.1888,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,9.84,84,46,1.29,0.2398,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,11.66,119,64,1.33,0.2041,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,10.1,113,52,1.16,0.2041,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,7.49,277,166,1.55,0.1403,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,16.88,29,19,0.21,0.3929,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,7.53,99,59,0.91,0.2168,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,4.94,131,69,8.15,0.5383,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,9.6,310,67,1.01,0.1454,SMD,SMD
+Sleep_General sleep problems,Sleep,Sleep_Sleep problem_SMD,,5.23,341,169,0.36,0.1097,SMD,SMD
+Sleep_global score,Sleep,Sleep_Sleep problem_SMD,,34.41,72,36,-0.3876,0.2379,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,5.3,136,71,-0.2,0.1709,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,8.5,212,122,0.28,0.1403,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,9.4,46,23,0.76,0.3061,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,4.7,266,104,1.55,0.1429,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,7.1,120,60,0.89,0.1913,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,6,546,212,0.31,0.0893,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,7.33,210,108,0.62,0.1429,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,8.2,274,106,0.89,0.1276,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,5,72,18,0.83,0.2806,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,8.1,66,35,0.07,0.2474,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,10.27,24,11,-0.32,0.4133,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,3.28,65,34,0.13,0.2474,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,4.7,98,49,0.39,0.2041,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,9,77,35,0.21,0.2296,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,11.3,42,22,2.45,0.4158,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,9,403,31,0.67,0.1888,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,9.84,84,46,0.29,0.2194,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,7.53,99,59,0.56,0.2092,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,4.94,131,69,4.69,0.3418,SMD,SMD
+Sleep_Night awakenings,Sleep,Sleep_Night awakenings_SMD,,5.23,341,169,0.41,0.1097,SMD,SMD
+sleep_night waking,Sleep,Sleep_Night awakenings_SMD,,3.6,1203,734,0.9038,0.0619,SMD,SMD
+sleep_night waking,Sleep,Sleep_Night awakenings_SMD,,13.5,718,249,0.4185,0.0792,SMD,SMD
+sleep_night waking,Sleep,Sleep_Night awakenings_SMD,,5.9,869,400,0.8122,0.0708,SMD,SMD
+sleep_night waking,Sleep,Sleep_Night awakenings_SMD,,8.7,870,401,0.5678,0.0694,SMD,SMD
+Sleep_night waking,Sleep,Sleep_Night awakenings_SMD,,11.17,96,48,0.9082,0.2144,SMD,SMD
+sleep_night waking,Sleep,Sleep_Night awakenings_SMD,,11.53,930,60,0.5704,0.1341,SMD,SMD
+sleep_Night waking,Sleep,Sleep_Night awakenings_SMD,,6.225,21,11,0.69,0.4541,SMD,SMD
+Sleep_Night-wakings,Sleep,Sleep_Night awakenings_SMD,,5.5,34,22,0.8877,0.3747,SMD,SMD
+Sleep_Night-wakings,Sleep,Sleep_Night awakenings_SMD,,5.1,30,18,2.6672,0.5074,SMD,SMD
+Sleep_no of awakening,Sleep,Sleep_Night awakenings_SMD,,18.2,18,10,1.7025,0.5527,SMD,SMD
+Sleep_no of awakenings,Sleep,Sleep_Night awakenings_SMD,,34.41,72,36,0.49,0.2398,SMD,SMD
+Sleep_no of awakenings,Sleep,Sleep_Night awakenings_SMD,,21.1,105,27,0.48,0.227,SMD,SMD
+Sleep_no of awakenings,Sleep,Sleep_Night awakenings_SMD,,21.1,32,16,0.59,0.3622,SMD,SMD
+Sleep_no of awakenings,Sleep,Sleep_Night awakenings_SMD,,27.2,30,20,0.74,0.4005,SMD,SMD
+Sleep_no of awakenings,Sleep,Sleep_Night awakenings_SMD,,27.2,30,20,0.17,0.3878,SMD,SMD
+Sleep_no of awakenings,Sleep,Sleep_Night awakenings_SMD,,27.2,30,20,0.58,0.3954,SMD,SMD
+sleep_Number of awakenings per hour,Sleep,Sleep_Night awakenings_SMD,,8.72,18,13,0.27,0.5281,SMD,SMD
+Sleep_parasomnia,Sleep,Sleep_Parasomnias_SMD,,11.17,96,48,0.2573,0.205,SMD,SMD
+Sleep_parasomnias,Sleep,Sleep_Parasomnias_ratio,,6.35,,48762,2.56,0.0487,RR,ratio
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,5.5,34,22,0.1296,0.3592,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,5.1,30,18,0.1452,0.3732,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,5.3,136,71,0.96,0.1837,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,8.5,212,122,0.11,0.1403,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,9.4,46,23,0.81,0.3087,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,4.7,266,104,0.53,0.1276,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,7.1,120,60,0.74,0.1888,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,6,546,212,0.14,0.0867,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,4.45,1158,193,0.32,0.0791,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,7.33,210,108,0.28,0.1378,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,8.2,274,106,0.68,0.1276,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,5,72,18,1.31,0.2959,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,8.1,66,35,1.17,0.2679,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,10.27,24,11,0.17,0.4107,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,3.28,65,34,0.65,0.2551,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,4.7,98,49,0.23,0.2041,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,9,77,35,-0.06,0.227,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,11.3,42,22,3.97,0.5485,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,9,403,31,0.22,0.1862,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,9.84,84,46,0.98,0.2321,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,7.49,277,166,1.13,0.1327,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,7.53,99,59,0.83,0.2143,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,4.94,131,69,7.05,0.4541,SMD,SMD
+Sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,5.23,341,169,0.3,0.1097,SMD,SMD
+sleep_parasomnias,Sleep,Sleep_Parasomnias_SMD,,3.6,1203,734,0.9385,0.0621,SMD,SMD
+sleep_parasomnias,Sleep,Sleep_Parasomnias_SMD,,13.5,718,249,0.3789,0.0791,SMD,SMD
+sleep_parasomnias,Sleep,Sleep_Parasomnias_SMD,,5.9,869,400,0.8918,0.0713,SMD,SMD
+sleep_parasomnias,Sleep,Sleep_Parasomnias_SMD,,8.7,870,401,0.7127,0.0701,SMD,SMD
+sleep_parasomnias,Sleep,Sleep_Parasomnias_SMD,,11.53,914,60,0.22,0.1337,SMD,SMD
+sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,6.225,21,11,1.09,0.4745,SMD,SMD
+sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,10.1,113,52,0.67,0.1939,SMD,SMD
+sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,3.9,168,84,0.18,0.1531,SMD,SMD
+sleep_Parasomnias,Sleep,Sleep_Parasomnias_SMD,,4.8,219,73,-0.12,0.1454,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,12.26,30,18,-0.54,0.3801,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,13.3,9,4,3.92,1.4005,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,10.36,18,13,-0.72,0.5434,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,7.8,44,21,-0.55,0.3087,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,10.27,24,11,0.18,0.4107,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,11.3,36,19,-2.82,0.4847,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,9.4,34,16,-0.3,0.3444,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,10.23,26,13,0.38,0.3954,SMD,SMD
+Sleep_REM,Sleep,Sleep_REM sleep (%)_SMD,,27.2,30,20,-0.37,0.3903,SMD,SMD
+Sleep_REM activity,Sleep,Sleep_REM sleep (%)_SMD,,18.2,18,10,0.2249,0.4758,SMD,SMD
+Sleep_REM density,Sleep,Sleep_REM sleep (%)_SMD,,18.2,18,10,0.5139,0.482,SMD,SMD
+Sleep_REM density,Sleep,Sleep_REM sleep (%)_SMD,,21.5,27,15,-1.2685,0.424,SMD,SMD
+sleep_REM density(no./h REM sleep),Sleep,Sleep_REM sleep (%)_SMD,,8.72,18,13,-0.2,0.5255,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,12.7,20,8,0.117,0.4568,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,11.9,22,10,-0.771,0.4437,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,22.1,32,16,-0.1248,0.3539,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,24.2,22,6,-0.6192,0.4877,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,20.9,26,10,0.1974,0.404,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,9.4,34,16,-0.794,0.3568,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,13.3,9,4,0.28,0.6786,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,10.36,18,13,-0.2,0.5281,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,5.32,52,40,0.82,0.3418,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,7.8,44,21,0.34,0.3036,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,10.27,24,11,-0.43,0.4158,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,21.1,105,27,-0.03,0.223,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,27.2,30,20,0.366,0.39,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,21.6,28,17,-0.1,0.3878,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,21.7,29,17,0.03,0.375,SMD,SMD
+Sleep_REM latency,Sleep,Sleep_REM latency_SMD,,27.2,30,20,0.36,0.3903,SMD,SMD
+sleep_REM latency(min),Sleep,Sleep_REM latency_SMD,,8.72,18,13,-0.2,0.5281,SMD,SMD
+sleep_REM latency(min),Sleep,Sleep_REM latency_SMD,,6.225,21,11,-0.15,0.3852,SMD,SMD
+Sleep_REM sleep,Sleep,Sleep_REM sleep (%)_SMD,,27.2,30,20,-0.376,0.39,SMD,SMD
+Sleep_REM sleep latency,Sleep,Sleep_REM latency_SMD,,22.6,16,8,0.832,0.5212,SMD,SMD
+Sleep_REM sleep latency,Sleep,Sleep_REM latency_SMD,,21.5,27,15,0.0361,0.3873,SMD,SMD
+sleep_REM sleep(%),Sleep,Sleep_REM sleep (%)_SMD,,8.72,18,13,-0.72,0.5434,SMD,SMD
+sleep_REM sleep(%),Sleep,Sleep_REM sleep (%)_SMD,,6.225,21,11,-0.25,0.3878,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,12.7,20,8,-0.709,0.47,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,11.9,22,10,-0.389,0.4322,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,18.2,18,10,-1.7478,0.5567,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,5.5,34,22,-1.4788,0.4012,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,5.1,30,18,-3.3234,0.5683,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,22.1,32,16,1.3766,0.3932,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,24.2,22,6,1.9227,0.5596,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,20.9,26,10,0.6209,0.4122,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,22.6,16,8,0.3836,0.5046,SMD,SMD
+Sleep_REM%,Sleep,Sleep_REM sleep (%)_SMD,,21.5,27,15,0.1684,0.388,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,12.7,20,8,0.195,0.4575,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,11.9,22,10,0.341,0.4312,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,18.2,18,10,0.3646,0.4782,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,8.72,18,13,-0.5913,0.5354,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,5.5,34,22,0.4805,0.3636,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,5.1,30,18,0.2284,0.3738,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,22.1,32,16,3.0219,0.5174,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,24.2,22,6,2.5695,0.6158,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,20.9,26,10,3.087,0.588,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,9.4,34,16,0.3034,0.3456,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,27.2,30,20,1.9,0.4584,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,13.3,9,4,1.14,0.7602,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,10.36,18,13,-0.56,0.5383,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,7.8,44,21,0.28,0.3036,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,11.3,36,19,1.71,0.3954,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,22.6,16,8,2.033,0.6158,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,21.5,27,15,0.644,0.3971,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,21.1,105,27,0.879,0.231,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,27.2,30,20,0.464,0.392,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,21.7,29,17,0.59,0.3852,SMD,SMD
+Sleep_S1,Sleep,Sleep_S1 (%)_SMD,,27.2,30,20,0.45,0.3929,SMD,SMD
+sleep_S1(%),Sleep,Sleep_S1 (%)_SMD,,10.27,26,13,0.54,0.4005,SMD,SMD
+sleep_S1(%),Sleep,Sleep_S1 (%)_SMD,,6.225,21,11,-0.46,0.3903,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,12.7,20,8,-0.544,0.4645,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,11.9,22,10,-0.476,0.4341,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,18.2,18,10,-0.4908,0.4813,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,8.72,18,13,-0.4873,0.5325,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,5.5,34,22,1.3668,0.3953,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,5.1,30,18,2.0546,0.4574,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,22.1,32,16,0.5238,0.3596,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,24.2,22,6,0.8095,0.494,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,20.9,26,10,0.3115,0.4054,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,13.3,9,4,-1.85,0.8852,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,10.36,18,13,-0.46,0.5332,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,7.8,44,21,0,0.3036,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,10.27,24,11,0.49,0.4184,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,11.3,36,19,1.24,0.3699,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,9.4,34,16,-0.45,0.3469,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,22.6,16,8,-2.5451,0.6726,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,21.1,105,27,0.131,0.223,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,27.2,30,20,-0.691,0.397,SMD,SMD
+Sleep_S2,Sleep,Sleep_S2 (%)_SMD,,27.2,30,20,-0.67,0.398,SMD,SMD
+sleep_S2(%),Sleep,Sleep_S2 (%)_SMD,,6.225,21,11,-0.41,0.3903,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,5.5,34,22,0.1224,0.3592,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,5.1,30,18,0.0086,0.3727,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,5.3,136,71,0.53,0.1556,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,8.5,212,122,0.13,0.1403,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,9.4,46,23,1.19,0.3214,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,4.7,266,104,1.76,0.1454,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,7.1,120,60,1.47,0.2041,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,6,546,212,0.11,0.0867,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,7.33,210,108,0.63,0.1403,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,8.2,274,106,0.65,0.1276,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,5,72,18,0.44,0.2755,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,8.1,66,35,0.6,0.2526,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,10.27,24,11,0.54,0.4184,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,3.28,65,34,0.09,0.25,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,4.7,98,49,-0.12,0.2015,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,9,77,35,0.46,0.2321,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,11.3,42,22,5.05,0.6556,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,9,403,31,0.4,0.1888,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,9.84,84,46,0.73,0.227,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,7.53,99,59,0.5,0.2066,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,4.94,131,69,6.39,0.4362,SMD,SMD
+Sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,5.23,341,169,0.24,0.1097,SMD,SMD
+sleep_sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,3.6,1203,734,0.6949,0.0608,SMD,SMD
+sleep_sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,13.5,718,249,0.3539,0.079,SMD,SMD
+sleep_sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,5.9,869,400,0.6824,0.07,SMD,SMD
+sleep_sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,8.7,870,401,0.6211,0.0696,SMD,SMD
+Sleep_sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,11.17,96,48,-1.1255,0.2197,SMD,SMD
+sleep_Sleep anxiety,Sleep,Sleep_Sleep anxiety_SMD,,6.225,21,11,1.77,0.5306,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,5.5,34,22,0.1245,0.3592,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,5.1,30,18,0.105,0.3729,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,5.3,136,71,0.33,0.1735,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,8.5,212,122,0.32,0.1633,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,9.4,46,23,0.44,0.301,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,4.7,266,104,0.13,0.125,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,7.1,120,60,0.1,0.1837,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,6,546,212,0.34,0.0867,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,7.33,210,108,0.38,0.1403,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,8.2,274,106,0.62,0.125,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,5,72,18,0.97,0.2832,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,8.1,66,35,-0.35,0.2474,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,10.27,24,11,-0.05,0.4107,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,3.28,65,34,0.51,0.2526,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,4.7,98,49,0.17,0.2015,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,9,77,35,0,0.2296,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,11.3,42,22,1.22,0.3393,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,9,403,31,0.49,0.1862,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,9.84,84,46,0.27,0.2219,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,11.66,119,64,0.93,0.1964,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,10.1,113,52,0.26,0.1888,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,7.49,277,166,0.84,0.1276,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,7.53,99,59,0.12,0.2041,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,4.94,131,69,3.42,0.2781,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,9.6,310,67,0.21,0.1378,SMD,SMD
+Sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,5.23,341,169,0.24,0.1097,SMD,SMD
+sleep_sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,3.6,1203,734,0.3044,0.0594,SMD,SMD
+sleep_sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,13.5,718,249,0.5899,0.0799,SMD,SMD
+sleep_sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,5.9,869,400,0.3657,0.0686,SMD,SMD
+sleep_sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,8.7,870,401,0.365,0.0686,SMD,SMD
+Sleep_sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,11.17,96,48,0.5529,0.208,SMD,SMD
+sleep_sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,11.53,944,60,0.252,0.1335,SMD,SMD
+sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,6.225,21,11,0.88,0.4643,SMD,SMD
+sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,3.9,168,84,-0.01,0.1531,SMD,SMD
+sleep_Sleep disordered breathing,Sleep,Sleep_Sleep disordered breathing_SMD,,4.8,219,73,-0.66,0.1454,SMD,SMD
+Sleep_sleep disturbance,Sleep,Sleep_Sleep problem_SMD,,34.41,72,36,0.1187,0.2359,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,5.5,34,22,0.8546,0.3735,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,5.1,30,18,1.814,0.4402,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,5.3,136,71,-0.27,0.1735,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,8.5,212,122,-0.72,0.1454,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,10.8,64,32,-0.38,0.2526,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,15.5,51,24,-0.47,0.2832,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,7.6,220,110,0.21,0.1352,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,9.4,46,23,-1.14,0.3189,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,4.7,266,104,-1.34,0.1378,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,7.1,120,60,-1.19,0.199,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,6,546,212,-0.33,0.0893,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,7.33,210,108,-0.64,0.1429,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,8.2,274,106,-0.69,0.1276,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,5,72,18,-0.34,0.273,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,8.1,66,35,0.06,0.2474,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,10.27,24,11,-0.41,0.4133,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,3.28,65,34,-0.45,0.2526,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,4.7,98,49,-0.39,0.2041,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,9,77,35,-0.31,0.2296,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,11.3,42,22,-3.03,0.4643,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,9,403,31,-0.14,0.1888,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,9.84,84,46,-0.92,0.2296,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,7.79,74,38,-0.62,0.2372,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,9.12,47,12,0.24,0.3342,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,7.53,99,59,-0.64,0.2092,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,4.94,131,69,-6.85,0.4643,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,9.6,310,67,-0.81,0.1429,SMD,SMD
+Sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,5.23,341,169,-0.12,0.1071,SMD,SMD
+sleep_sleep duration,Sleep,Sleep_Time in bed_SMD,,3.6,1203,734,0.4667,0.0599,SMD,SMD
+sleep_sleep duration,Sleep,Sleep_Time in bed_SMD,,13.5,718,249,1.0045,0.0828,SMD,SMD
+sleep_sleep duration,Sleep,Sleep_Time in bed_SMD,,5.9,869,400,0.6498,0.0698,SMD,SMD
+sleep_sleep duration,Sleep,Sleep_Time in bed_SMD,,8.7,870,401,0.8112,0.0707,SMD,SMD
+Sleep_sleep duration,Sleep,Sleep_Time in bed_SMD,,11.17,96,48,0.7633,0.2114,SMD,SMD
+sleep_sleep duration,Sleep,Sleep_Time in bed_SMD,,11.53,949,60,0.5412,0.134,SMD,SMD
+sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,10.05,156,78,-0.75,0.1658,SMD,SMD
+sleep_Sleep duration,Sleep,Sleep_Time in bed_SMD,,6.225,21,11,1.84,0.5383,SMD,SMD
+Sleep_sleep duration (hrs),Sleep,Sleep_Time in bed_SMD,,34.41,72,36,-0.44,0.2372,SMD,SMD
+Sleep_sleep duration (hrs),Sleep,Sleep_Time in bed_SMD,,21.1,105,27,0.26,0.2245,SMD,SMD
+Sleep_sleep duration (hrs),Sleep,Sleep_Time in bed_SMD,,27.2,30,20,0.71,0.4005,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,12.7,20,8,-1.036,0.4849,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,11.9,22,10,-0.645,0.4391,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,18.2,18,10,-1.8223,0.5632,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,5.5,34,22,-1.7953,0.4198,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,5.1,30,18,-2.9236,0.5304,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,22.1,32,16,-1.8921,0.4254,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,24.2,22,6,-1.6319,0.5382,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,20.9,26,10,-1.633,0.4624,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,21.1,105,27,-4.3309,0.3731,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,3.93,137,89,-0.1225,0.171,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,10.8,64,32,-0.82,0.2602,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,15.5,51,24,-0.63,0.2883,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,10.36,18,13,-0.92,0.5536,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,8.89,50,21,-0.61,0.2934,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,7.8,44,21,-0.65,0.2168,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,10.27,24,11,-0.1,0.4107,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,10.27,24,11,0.18,0.4107,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,11.3,22,10,0.21,0.3291,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,11.3,36,19,-4.25,0.6276,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,9.4,34,16,-0.48,0.3469,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,16.88,29,10,0.45,0.3954,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,7.53,94,37,-0.08,0.2117,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,34.41,72,36,0.061,0.2358,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,34.41,72,36,0.3446,0.2375,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,34.41,72,36,-0.5431,0.24,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,15.6,41,28,-0.7873,0.3467,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,40.3,79,29,-1.287,0.255,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,21.1,105,27,-0.486,0.226,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,21.1,105,27,-0.656,0.228,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,27.2,30,20,0.197,0.388,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,27.2,30,20,-0.542,0.394,SMD,SMD
+Sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,22,33,16,-0.088,0.348,SMD,SMD
+sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,3.92,137,68,-0.24,0.1709,SMD,SMD
+sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,10.05,156,78,-1.07,0.1735,SMD,SMD
+sleep_sleep efficiency,Sleep,Sleep_Sleep efficiency_SMD,,10.7,38,19,0.13,0.3265,SMD,SMD
+Sleep_Sleep efficiency (%),Sleep,Sleep_Sleep efficiency_SMD,,33,92,41,-1.11,0.227,SMD,SMD
+Sleep_Sleep efficiency (%),Sleep,Sleep_Sleep efficiency_SMD,,30.8,24,10,-2.63,0.5459,SMD,SMD
+sleep_sleep efficiency(%),Sleep,Sleep_Sleep efficiency_SMD,,6.225,21,11,-1.32,0.4235,SMD,SMD
+Sleep_sleep latency,Sleep,Sleep_Sleep latency_SMD,,12.7,20,8,0.431,0.4615,SMD,SMD
+Sleep_sleep latency,Sleep,Sleep_Sleep latency_SMD,,11.9,22,10,0.58,0.437,SMD,SMD
+Sleep_sleep latency,Sleep,Sleep_Sleep latency_SMD,,5.5,34,22,0.9556,0.3771,SMD,SMD
+Sleep_sleep latency,Sleep,Sleep_Sleep latency_SMD,,5.1,30,18,1.6793,0.4312,SMD,SMD
+Sleep_Sleep latency,Sleep,Sleep_Sleep latency_SMD,,22.1,32,16,2.6743,0.4866,SMD,SMD
+Sleep_Sleep latency,Sleep,Sleep_Sleep latency_SMD,,24.2,22,6,3.2016,0.6798,SMD,SMD
+Sleep_Sleep latency,Sleep,Sleep_Sleep latency_SMD,,20.9,26,10,1.7278,0.469,SMD,SMD
+Sleep_Sleep latency,Sleep,Sleep_Sleep latency_SMD,,27.2,30,20,1.1689,0.4157,SMD,SMD
+Sleep_sleep latency,Sleep,Sleep_Sleep latency_SMD,,22.6,16,8,1.6678,0.5805,SMD,SMD
+Sleep_sleep latency,Sleep,Sleep_Sleep latency_SMD,,15.6,41,28,0.973,0.3524,SMD,SMD
+sleep_Sleep latency,Sleep,Sleep_Sleep latency_SMD,,10.05,156,78,1.48,0.1811,SMD,SMD
+sleep_Sleep latency,Sleep,Sleep_Sleep latency_SMD,,6.225,21,11,1.06,0.4719,SMD,SMD
+sleep_Sleep latency,Sleep,Sleep_Sleep latency_SMD,,11.66,117,64,1.6,0.2143,SMD,SMD
+Sleep_Sleep latency (min),Sleep,Sleep_Sleep latency_SMD,,5.5,34,22,0.7475,0.3701,SMD,SMD
+Sleep_Sleep latency (min),Sleep,Sleep_Sleep latency_SMD,,5.1,30,18,1.2285,0.405,SMD,SMD
+sleep_sleep latency(min),Sleep,Sleep_Sleep latency_SMD,,8.72,18,13,0.89,0.551,SMD,SMD
+sleep_sleep latency(min),Sleep,Sleep_Sleep latency_SMD,,6.225,21,11,1.18,0.4158,SMD,SMD
+Sleep_Sleep length (min),Sleep,Sleep_Total sleep time_SMD,,5.5,34,22,-0.6693,0.3679,SMD,SMD
+Sleep_Sleep length (min),Sleep,Sleep_Total sleep time_SMD,,5.1,30,18,-1.8882,0.4453,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,5.5,34,22,0.9157,0.3757,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,5.1,30,18,1.9325,0.4485,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,5.3,136,71,0.44,0.1735,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,8.5,212,122,0.52,0.1403,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,9.4,46,23,0.83,0.3087,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,4.7,266,104,1.43,0.1403,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,7.1,120,60,0.57,0.1862,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,6,546,212,0.27,0.0867,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,7.33,210,108,0.83,0.1454,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,8.2,274,106,0.73,0.1276,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,5,72,18,0.91,0.2832,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,8.1,66,35,-0.3,0.25,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,10.27,24,11,0.41,0.4133,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,3.28,65,34,0.58,0.2551,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,4.7,98,49,0.66,0.2092,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,9,77,35,0.46,0.2321,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,11.3,42,22,3.06,0.4668,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,9,403,31,0.57,0.1888,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,9.84,84,46,0.92,0.2321,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,7.49,277,166,1.68,0.1429,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,9.12,47,12,0.52,0.3393,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,7.53,99,59,0.53,0.2092,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,4.94,131,69,8.45,0.5587,SMD,SMD
+Sleep_Sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,5.23,341,169,0.22,0.1097,SMD,SMD
+sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,3.6,1203,734,0.7217,0.0609,SMD,SMD
+sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,13.5,718,249,1.0437,0.0831,SMD,SMD
+sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,5.9,869,400,0.4468,0.0689,SMD,SMD
+sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,8.7,870,401,0.5733,0.0694,SMD,SMD
+Sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,11.17,96,48,0.2306,0.2048,SMD,SMD
+sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,11.53,964,60,0.9428,0.135,SMD,SMD
+sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,21.1,105,27,0.812,0.23,SMD,SMD
+sleep_sleep onset delay,Sleep,Sleep_Sleep latency_SMD,,27.2,30,20,0.296,0.389,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,21.1,105,27,1.8148,0.256,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,3.91,137,68,0.1674,0.1712,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,3.93,137,89,0.1674,0.1712,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,10.8,64,32,1.11,0.2704,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,10.8,64,32,0.79,0.2602,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,15.5,39,25,0.9,0.352,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,15.5,49,23,0.44,0.2908,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,13.3,9,4,-0.43,0.6837,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,10.36,18,13,0.89,0.551,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,8.89,50,29,0.53,0.2934,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,4.7,266,104,1.12,0.1352,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,7.8,44,21,0.15,0.3036,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,10.27,24,11,0.8,0.4286,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,10.27,24,11,0.87,0.4337,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,9.4,34,16,0.46,0.3495,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,7.79,74,38,0.66,0.2398,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,16.88,29,10,0.83,0.4082,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,7.53,94,37,0.7,0.2194,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,9.6,310,67,0.7,0.1403,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,34.41,72,36,0.655,0.242,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,34.41,72,36,0.657,0.242,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,33,92,41,1.407,0.234,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,40.3,79,29,0.889,0.244,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,30.8,28,10,0.586,0.398,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,21.1,105,27,1.213,0.238,SMD,SMD
+Sleep_sleep onset latency,Sleep,Sleep_Sleep latency_SMD,,27.2,30,20,0.649,0.396,SMD,SMD
+Sleep_Sleep onset latency (min),Sleep,Sleep_Sleep latency_SMD,,34.41,72,36,0.65,0.2398,SMD,SMD
+Sleep_Sleep onset latency (min),Sleep,Sleep_Sleep latency_SMD,,34.41,72,36,0.65,0.2423,SMD,SMD
+Sleep_Sleep onset latency (min),Sleep,Sleep_Sleep latency_SMD,,33,92,41,1.4,0.2347,SMD,SMD
+Sleep_Sleep onset latency (min),Sleep,Sleep_Sleep latency_SMD,,21.6,28,17,0.2,0.3878,SMD,SMD
+Sleep_Sleep onset latency (min),Sleep,Sleep_Sleep latency_SMD,,30.8,24,10,1.1,0.4235,SMD,SMD
+Sleep_Sleep onset latency (min),Sleep,Sleep_Sleep latency_SMD,,27.2,30,20,0.67,0.398,SMD,SMD
+Sleep_Sleep onset latency (min),Sleep,Sleep_Sleep latency_SMD,,27.2,30,20,0.29,0.3903,SMD,SMD
+Sleep_sleep period ,Sleep,Sleep_Sleep period time_SMD,,27.2,30,20,0.6548,0.3964,SMD,SMD
+Sleep_sleep period ,Sleep,Sleep_Sleep period time_SMD,,27.2,29,20,0.0512,0.4014,SMD,SMD
+Sleep_sleep period time,Sleep,Sleep_Sleep period time_SMD,,12.7,20,8,-0.419,0.4612,SMD,SMD
+Sleep_sleep period time,Sleep,Sleep_Sleep period time_SMD,,11.9,22,10,-1.187,0.4641,SMD,SMD
+sleep_sleep period time(min),Sleep,Sleep_Sleep period time_SMD,,8.72,18,13,-1.7,0.6173,SMD,SMD
+sleep_sleep period time(min),Sleep,Sleep_Sleep period time_SMD,,9.4,34,16,-0.99,0.3648,SMD,SMD
+sleep_sleep problem,Sleep,Sleep_Sleep problem_SMD,,40.3,79,29,1.617,0.267,SMD,SMD
+Sleep_sleep problems,Sleep,Sleep_sleep problem_frequency,,6.8,,54,0.5741,0.06729,frequency,frequency
+Sleep_sleep-disordered breathing,Sleep,Sleep_Sleep disordered breathing_ratio,,7.2,,48762,1.96,0.0221,RR,ratio
+Sleep_Slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,12.7,20,8,0.572,0.4653,SMD,SMD
+Sleep_Slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,11.9,22,10,0.388,0.4322,SMD,SMD
+Sleep_Slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,18.2,18,10,-0.5252,0.4824,SMD,SMD
+Sleep_Slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,5.5,34,22,-1.7565,0.4173,SMD,SMD
+Sleep_Slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,5.1,30,18,-5.0347,0.7492,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,22.1,32,16,-2.829,0.5001,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,24.2,22,6,-4.2632,0.8014,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,20.9,26,10,-1.6179,0.4613,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,27.2,30,20,2.1713,0.4781,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,13.3,9,4,0.94,0.7321,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,10.36,18,13,1.03,0.5612,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,10.27,24,11,-1.11,0.4464,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,11.3,36,19,0.11,0.3342,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,21.7,29,17,-0.59,0.3852,SMD,SMD
+Sleep_slow wave sleep,Sleep,Sleep_Slow wave sleep_SMD,,27.2,30,20,0.54,0.3954,SMD,SMD
+sleep_Slow wave sleep (%),Sleep,Sleep_Slow wave sleep_SMD,,8.72,18,13,1.03,0.5612,SMD,SMD
+sleep_Slow wave sleep (%),Sleep,Sleep_Slow wave sleep_SMD,,7.8,44,21,-0.37,0.3036,SMD,SMD
+sleep_Slow wave sleep (%),Sleep,Sleep_Slow wave sleep_SMD,,6.225,21,11,1.17,0.4158,SMD,SMD
+sleep_Slow wave sleep (%),Sleep,Sleep_Slow wave sleep_SMD,,9.4,34,16,0.31,0.3469,SMD,SMD
+Sleep_time in bed,Sleep,Sleep_Time in bed_SMD,,12.7,20,8,-0.013,0.4564,SMD,SMD
+Sleep_time in bed,Sleep,Sleep_Time in bed_SMD,,11.9,22,10,-0.852,0.447,SMD,SMD
+Sleep_time in bed,Sleep,Sleep_Time in bed_SMD,,9.4,34,16,-0.902,0.3606,SMD,SMD
+Sleep_time in bed,Sleep,Sleep_Time in bed_SMD,,27.2,30,20,1.3198,0.4231,SMD,SMD
+Sleep_time in bed,Sleep,Sleep_Time in bed_SMD,,3.93,137,89,-0.6244,0.175,SMD,SMD
+Sleep_time in bed,Sleep,Sleep_Time in bed_SMD,,33,92,41,0.8819,0.2196,SMD,SMD
+Sleep_time in bed,Sleep,Sleep_Time in bed_SMD,,27.2,29,20,-0.018,0.4014,SMD,SMD
+sleep_Time in bed(min),Sleep,Sleep_Time in bed_SMD,,8.72,18,13,-1.61,0.6071,SMD,SMD
+sleep_Time in bed(min),Sleep,Sleep_Time in bed_SMD,,7.8,44,21,-0.49,0.3087,SMD,SMD
+sleep_Total problem,Sleep,Sleep_Sleep problem_SMD,,6.225,21,11,1.81,0.5357,SMD,SMD
+sleep_Total problem,Sleep,Sleep_Sleep problem_SMD,,3.9,168,84,0.59,0.1582,SMD,SMD
+sleep_Total problem,Sleep,Sleep_Sleep problem_SMD,,4.8,219,73,0.7,0.148,SMD,SMD
+sleep_total score,Sleep,Sleep_Sleep problem_SMD,,11.17,96,48,0.6384,0.2093,SMD,SMD
+sleep_total score,Sleep,Sleep_Sleep problem_SMD,,11.53,802,60,0.2722,0.1344,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,12.7,20,8,-0.764,0.4722,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,11.9,22,10,-1.211,0.4655,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,5.5,34,22,-1.4709,0.4008,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,5.1,30,18,-2.5795,0.4998,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,22.1,32,16,-1.1483,0.3816,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,24.2,22,6,-2.7974,0.638,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,20.9,26,10,0.0565,0.4032,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,21.1,105,27,1.8041,0.2557,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,27.2,30,20,-0.7966,0.4007,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,3.91,137,68,-0.7983,0.1776,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,13.3,9,4,0.74,0.7092,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,10.27,24,11,0.35,0.4133,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,11.3,36,19,-2.02,0.4184,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,9.4,34,16,-1.05,0.3699,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,34.41,72,36,-0.768,0.2442,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,34.41,72,36,-0.7787,0.2445,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,22.6,16,8,-1.4317,0.5604,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,15.6,41,28,0.1077,0.3358,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,4,72,39,0.0269,0.2365,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,7,55,23,0.2293,0.2742,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,10,85,75,-0.0654,0.3367,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,0.7,10777,73,0.0548,0.1174,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,0.5,11297,67,0.1165,0.1225,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,2.5,9620,65,-0.2615,0.1245,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,3.5,9585,63,-0.4987,0.1265,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,5.8,8550,60,-0.711,0.1297,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,6.8,8265,57,-1.0715,0.1332,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,9.6,7816,55,-0.6628,0.1354,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,11.7,7082,39,-0.5114,0.1606,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,9.3,118,52,-0.2414,0.1981,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,6.5,119,53,-0.239,0.1851,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,33,92,41,0.192,0.21,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,40.3,79,29,-0.423,0.236,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,30.8,28,10,-0.441,0.395,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,21.1,105,27,-0.304,0.224,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,21.1,105,27,0.261,0.224,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,27.2,30,20,-0.191,0.388,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,27.2,30,20,0.114,0.388,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,27.2,30,20,0.278,0.389,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,22,33,16,0.021,0.348,SMD,SMD
+Sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,27.2,30,20,-0.19,0.3878,SMD,SMD
+sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,10.8,64,32,-0.34,0.25,SMD,SMD
+sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,3.92,137,68,-0.56,0.1735,SMD,SMD
+sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,10.05,156,78,-1.33,0.176,SMD,SMD
+sleep_total sleep time,Sleep,Sleep_Total sleep time_SMD,,10.7,38,19,0.04,0.324,SMD,SMD
+sleep_Total sleep time(min),Sleep,Sleep_Total sleep time_SMD,,8.72,18,13,-1.59,0.6071,SMD,SMD
+sleep_Total sleep time(min),Sleep,Sleep_Total sleep time_SMD,,7.8,44,21,-0.55,0.3087,SMD,SMD
+sleep_Total sleep time(min),Sleep,Sleep_Total sleep time_SMD,,6.225,21,11,-0.6,0.3929,SMD,SMD
+Sleep_true sleep,Sleep,Sleep_Sleep period time_SMD,,10.8,64,32,-0.34,0.25,SMD,SMD
+Sleep_true sleep,Sleep,Sleep_Sleep period time_SMD,,15.5,39,25,-0.44,0.3367,SMD,SMD
+Sleep_true sleep,Sleep,Sleep_Sleep period time_SMD,,11.3,22,10,0.62,0.3367,SMD,SMD
+Sleep_true sleep,Sleep,Sleep_Sleep period time_SMD,,10.7,38,19,0.04,0.324,SMD,SMD
+Sleep_true sleep,Sleep,Sleep_Sleep period time_SMD,,16.88,29,10,0.49,0.3954,SMD,SMD
+Sleep_true sleep,Sleep,Sleep_Sleep period time_SMD,,7.53,94,37,-0.29,0.2117,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,12.7,20,8,0.437,0.4616,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,11.9,22,10,0.119,0.4286,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,8.72,18,13,0.1327,0.5267,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,5.5,34,22,1.5902,0.4074,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,5.1,30,18,1.8508,0.4427,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,27.2,30,20,2.0559,0.4695,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,3.91,137,68,0.068,0.1709,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,3.93,137,89,0,0.1709,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,34.41,72,36,-0.009,0.2357,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,34.41,72,36,-0.5366,0.2399,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,33,92,41,1.0035,0.2224,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,15.6,41,28,0.4859,0.3399,SMD,SMD
+Sleep_WASO,Sleep,Sleep_WASO_SMD,,27.2,29,20,0.7474,0.4132,SMD,SMD
+Sleep_WASO (%),Sleep,Sleep_WASO_SMD,,27.2,30,20,0.48,0.3929,SMD,SMD
+sleep_WASO (%),Sleep,Sleep_WASO_SMD,,7.8,44,21,0.7,0.3112,SMD,SMD
+sleep_WASO (%),Sleep,Sleep_WASO_SMD,,6.225,21,11,-0.69,0.3954,SMD,SMD
+sleep_WASO (%),Sleep,Sleep_WASO_SMD,,9.4,34,16,0.21,0.3444,SMD,SMD
+Sleep_WASO (min),Sleep,Sleep_WASO_SMD,,40.3,79,29,1.03,0.247,SMD,SMD
+Sleep_WASO (min),Sleep,Sleep_WASO_SMD,,21.1,105,27,0.488,0.226,SMD,SMD
+Sleep_WASO (min),Sleep,Sleep_WASO_SMD,,21.1,105,27,0.731,0.229,SMD,SMD
+Sleep_WASO (min),Sleep,Sleep_WASO_SMD,,27.2,30,20,0.489,0.392,SMD,SMD
+sleep_WASO (min),Sleep,Sleep_WASO_SMD,,3.92,137,68,0.07,0.1709,SMD,SMD
+sleep_WASO (min),Sleep,Sleep_WASO_SMD,,10.05,156,78,0.78,0.1658,SMD,SMD
+Sleep_WASO (no),Sleep,Sleep_WASO_SMD,,21.1,105,27,0.48,0.226,SMD,SMD
+Sleep_WASO (no),Sleep,Sleep_WASO_SMD,,21.1,105,27,0.683,0.228,SMD,SMD
+Sleep_WASO (no),Sleep,Sleep_WASO_SMD,,27.2,30,20,0.172,0.388,SMD,SMD
+Sleep_WASO (no),Sleep,Sleep_WASO_SMD,,27.2,30,20,0.402,0.391,SMD,SMD
+Sleep_WASO%,Sleep,Sleep_WASO_SMD,,22.1,32,16,1.8921,0.4254,SMD,SMD
+Sleep_WASO%,Sleep,Sleep_WASO_SMD,,24.2,22,6,1.6319,0.5382,SMD,SMD
+Sleep_WASO%,Sleep,Sleep_WASO_SMD,,20.9,26,10,1.633,0.4624,SMD,SMD
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,8.5,359597,,1.21,0.1189,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,24,84,,2.4,0.4571,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,40,333,,4.35,0.2343,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,19.2,1023,,3.38,0.3755,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,9,92,,4.25,0.6009,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,9.5,231,,5.3,0.6575,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,2.125,624,,3.09,0.1482,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,51,833,,4.63,0.2045,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,10,6412727,,5.4,0.1285,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,44.5,4989,,2.96,0.1052,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,3.75,196,,1.74,0.4505,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,11,321,,6.22,0.328,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,13,197,,4.44,0.4044,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,4.08,1668,,2.13,0.1692,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,45.5,162,,18.76,1.0364,OR,ratio
+Suicide_Self-injurious behavior,Suicide,Suicide_Self-harm_ratio,,43,102108,,2.36,0.07,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,40,333,,6.91,0.3413,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,20.5,28090,,5.47,0.2108,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,20.5,28090,,5.88,0.1952,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,21.6,16577,,5.71,0.2424,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,11.5,2720,,0.86,0.3433,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,25.7,194,,3.25,0.4228,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,12,515,,1.7,0.1482,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,78,51535,,11.1,0.112,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,11,193,,2.51,0.5405,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,22,325008,,2.31,0.0463,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,22,325008,,2.9,0.1056,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,15,23145,,2.05,0.3568,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,42,9121537,,1.13,0.1402,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,12,6559266,,2.38,0.0536,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,12,6559266,,4.42,0.0611,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,15.5,10489,,5.43,0.3112,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,54,689,,2.94,0.186,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,52.5,336,,4.05,0.4427,OR,ratio
+Suicide_suicidality,Suicide,Suicide_suicidality_ratio,,43,102108,,3.89,0.0692,OR,ratio
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,19.7,,10,0.5,0.1403,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,11,,22,0.364,0.098,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,10.1,,39,0.359,0.075,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,10,,166,0.469,0.0696,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,13.3,,49,0.143,0.0513,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,13.6,,55,0.164,0.0508,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,13.6,,107,0.626,0.0462,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,8,,72,0.139,0.0416,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,14.6,,101,0.168,0.0375,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,10.71,,153,0.203,0.0327,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,12,,217,0.35,0.0321,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,7.7,,178,0.096,0.0224,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,11.6,,481,0.108,0.0143,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,6.6,,791,0.109,0.011,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,12.3,,1499,0.166,0.0097,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,21.5,,102,0.48,0.0569,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,35.9,,75,0.65,0.0561,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,10.91,,223,0.27,0.0299,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,9.43,,950,0.2,0.0136,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,8.82,,205,0.17,0.026,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,26.21,,42,0.4,0.0757,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,27.71,,7,0.71,0.1707,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,31.5,,374,0.65,0.0247,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,39.71,,308,0.28,0.0256,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,40.34,,113,0.47,0.0469,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,20.4,,24,0.46,0.1017,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,20.4,,64,0.28,0.0562,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,35,,12,0.25,0.125,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,35,,36,0.31,0.0768,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,28.2,,98,0.12,0.0331,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,13.75,,20,0.1,0.0671,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,16.9,,75,0.13,0.0393,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,28.5,,74,0.7,0.0531,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,22.98,,56,0.2,0.0531,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,42.26,,102,0.29,0.0451,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,41.91,,350,0.16,0.0195,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,29.84,,19,0.32,0.1066,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,16.6,,14,0.5,0.1581,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,16.6,,14,0.21,0.1097,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,25.42,,26,0.38,0.0954,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,25.42,,48,0.4,0.0706,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,10.55,,102,0.13,0.033,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,16.42,,27,0.26,0.0843,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,17.37,,27,0.56,0.0956,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,16.99,,13,0.69,0.128,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,19.5,,172,0.78,0.0313,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,47.5,,113,0.15,0.0336,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,11.15,,93,0.33,0.0489,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,24,,39,0.31,0.0739,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,36.7,,195,0.36,0.0344,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,25.2,,76,0.02,0.0161,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,15.2,,680,0.19,0.015,frequency,frequency
+Suicide_suicidality (suicidal ideation),Suicide,Suicide_suicidality_frequency,Suicidal ideation_frequency,12.1,,699,0.12,0.0123,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,10.9,,37,0.14,0.0587,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,13.6,,55,0.13,0.0459,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,11.85,,34,0.03,0.0459,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,13.2,,39,0.08,0.0459,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,15.9,,159,0.18,0.0306,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,17.2,,5618,0.04,0.0026,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,14.5,,18779,0.02,0.0001,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,17.2,,5618,0.04,0.0026,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,11.6,,156,0.24,0.0342,frequency,frequency
+Suicide_suicidality (suicide attempt),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,17.1,,94,0.42,0.0509,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,21.5,,102,0.01,0.0129,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,35.9,,75,0.29,0.0536,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,26.21,,42,0.14,0.054,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,27.71,,7,0.71,0.1707,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,38.89,,99,0.42,0.0497,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,41.52,,65,0.32,0.058,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,39.71,,308,0.37,0.0275,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,40.34,,113,0.23,0.0396,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,20.4,,24,0.08,0.0564,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,20.4,,64,0.08,0.0335,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,35,,12,0.42,0.1423,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,35,,36,0.67,0.0786,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,28.2,,98,0.19,0.0399,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,16.9,,75,0.36,0.0554,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,21.99,,43468,0.13,0.0024,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,24.13,,24595,0.08,0.0018,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,28.5,,74,0.28,0.0524,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,22.98,,56,0.14,0.0468,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,42.26,,102,0.28,0.0447,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,15.9,,159,0.18,0.0306,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,10.9,,37,0.16,0.0606,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,34.5,,56,0.36,0.0679,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,41.91,,350,0.37,0.0259,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,14.6,,101,0.23,0.0417,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,25.42,,26,0.15,0.0708,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,25.42,,48,0.17,0.0538,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,10.55,,102,0.01,0.0098,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,19.5,,172,0.51,0.0381,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,30.2,,70,0.24,0.0513,frequency,frequency
+Suicide_suicidality (suicide attempts and behaviours),Suicide,Suicide_suicidality_frequency,suicide attempt_frequency,30.2,,70,0.24,0.0705,frequency,frequency
+Suicide_suicidality (suicide death),Suicide,Suicide_suicidality_frequency,,21.5,,4695,0.003,0.0008,frequency,frequency
+Suicide_suicidality (suicide death),Suicide,Suicide_suicidality_frequency,,14.5,,18779,0.001,0.0001,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,21.5,,102,0.12,0.0366,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,39.71,,308,0.29,0.0259,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,40.34,,113,0.21,0.0385,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,28.2,,98,0.02,0.0143,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,16.9,,75,0.07,0.0296,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,22.98,,56,0.39,0.0653,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,42.26,,102,0.35,0.0473,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,41.91,,350,0.4,0.0262,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,25.42,,26,0.5,0.0981,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,25.42,,48,0.19,0.0563,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,10.55,,102,0.09,0.0281,frequency,frequency
+Suicide_suicidality (suicide plan),Suicide,Suicide_suicidality_frequency,suicide plan_frequency,24,,39,0.1,0.0486,frequency,frequency
+T1DM,Metabolic disease,Metabolic disease_frequency,,17.51,,1598,0.0025,0.00125,frequency,frequency
+T1DM,Metabolic disease,Metabolic disease_frequency,,12.15,,5565,0.0022,0.00062,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,4.7,,150,0.5467,0.04065,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,3.75,,10,1,0.0001,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,15,,29,0.2414,0.07946,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,9.06,,100,0.38,0.04854,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,10.5,,187,0.3316,0.03443,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,12.84,,51,0.5686,0.06935,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,23.3,,83,0.1084,0.03413,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,4.9,,28,0.6071,0.0923,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,8.92,,73,0.589,0.05759,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,16.65,,22,0.5,0.1066,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,10,,63,0.413,0.06203,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,10.1,,52,0.2115,0.05663,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,5.53,,40,0.2,0.06325,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,9.5,,106,0.0472,0.02059,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,5.33,,58,0.1034,0.03999,frequency,frequency
+Tooth grinding and/or clenching,Dental,Dental_bruxism_frequency,,10.08,,64,0.2188,0.05167,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,12.3,,36,0.333,0.0827,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,8.2,,22,0.091,0.0717,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,7.01,,40,0.2,0.0676,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,5.04,,38,0.132,0.0605,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,10.64,,14,0,0.0592,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,14.3,,33,0.061,0.0497,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,10.5,,63,0.159,0.0495,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,11.19,,41,0.073,0.0469,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,9.4,,68,0.074,0.0355,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,8.4,,69,0.072,0.0349,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,10.19,,85,0.094,0.0344,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,7.807,,105,0.114,0.0334,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,12.9,,28,0,0.0314,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,9.669,,113,0.088,0.0291,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,12.7,,32,0,0.0278,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,5.516,,86,0.047,0.026,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,6.7,,53,0.019,0.0258,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,10.7,,78,0.038,0.0255,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,6.881,,151,0.073,0.023,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,9.6,,178,0.062,0.0196,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,7.6,,208,0.058,0.0176,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,4.917,,111,0.018,0.0158,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,5.37,,362,0.069,0.014,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,5.1,,429,0.068,0.0128,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,3.89,,273,0.037,0.0122,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,4.494,,500,0.07,0.012,frequency,frequency
+Underweight,BMI,BMI_underweight_frequency,,4.942,,668,0.045,0.0082,frequency,frequency
+Underweight,BMI,BMI_underweight_ratio,,6.7,111,53,3.28,1.6211,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,5.516,142,86,0.868,0.7441,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,5.04,185,38,0.921,0.4628,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,11.19,246,41,0.556,0.5838,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,5.37,921,362,1.678,0.2809,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,8.4,88,69,0.344,0.6195,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,4.942,1552,668,0.709,0.2205,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,7.01,153,40,2.26,0.4373,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,7.807,600,105,2.829,0.349,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,12.3,72,36,12,1.0138,RR,ratio
+Underweight,BMI,BMI_underweight_ratio,,8.2,44,22,2,1.1874,RR,ratio
+Vision problem,Sensation,Vision_vision problem_frequency,,9.2,,728,0.141,0.0129,frequency,frequency
+Vision problem,Sensation,Vision_vision problem_frequency,,7.5,,17348,0.0345,0.00139,frequency,frequency
+Vision problem,Sensation,Vision_vision problem_frequency,,20,,7715,0.0377,0.00217,frequency,frequency
+Vision_refractive errors,Sensation,Vision_vision problem_frequency,,11,,44,0.2727,0.06714,frequency,frequency
+Vision_refractive errors,Sensation,Vision_vision problem_frequency,,10.28,,18,0.3333,0.11111,frequency,frequency
+Vision_refractive errors,Sensation,Vision_vision problem_frequency,,6.5,,154,0.2857,0.0364,frequency,frequency
+Vision_refractive errors,Sensation,Vision_vision problem_frequency,,5,,324,0.2253,0.02321,frequency,frequency
+Vision_refractive errors,Sensation,Vision_vision problem_frequency,,8.92,,187,0.2299,0.03077,frequency,frequency
+Vision_refractive errors,Sensation,Vision_vision problem_frequency,,13,,51,0.3137,0.06497,frequency,frequency
+Vision_refractive errors,Sensation,Vision_vision problem_frequency,,12.08,,257,0.1167,0.02003,frequency,frequency
+Vision_strabismus,Sensation,Vision_vision problem_frequency,,11,,44,0.4091,0.07412,frequency,frequency
+Vision_strabismus,Sensation,Vision_vision problem_frequency,,6.5,,154,0.2078,0.03269,frequency,frequency
+Vision_strabismus,Sensation,Vision_vision problem_frequency,,5,,324,0.0864,0.01561,frequency,frequency
+Vision_strabismus,Sensation,Vision_vision problem_frequency,,13,,51,0.098,0.04164,frequency,frequency
+Vision_strabismus,Sensation,Vision_vision problem_frequency,,12.08,,257,0.0117,0.0067,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,10.5,,43,0.4146,0.07513,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,10,,13,0.4615,0.13826,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,6.5,,24,0.1667,0.07608,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,7.5,,17,0.1765,0.09247,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,10,,38,0.15,0.05792,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,9.5,,42,0.3333,0.07274,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,8,,278,0.0687,0.01517,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,4,,82,0.3133,0.05122,frequency,frequency
+Visual impairment,Sensation,Vision_vision problem_frequency,,8,,5590,0.0798,0.00362,frequency,frequency
