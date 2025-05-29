@@ -1,0 +1,193 @@
+# Meta-regression using GAMs to model age trends in co-occurring physical conditions among autistic individuals
+
+# Load required packages
+library(ggplot2)
+library(mgcv)
+library(dplyr)
+library(readr)
+library(stringr)
+library(patchwork)
+
+# Set global options
+options(scipen = 999)
+
+# Define GAM analysis function
+gam_analysis_fx <- function(data, condition_col, output_dir, df = 5) {
+  # Create output directories
+  csv_dir <- file.path(output_dir, "csv")
+  fig_dir <- file.path(output_dir, "fig")
+  dir.create(csv_dir, recursive = TRUE, showWarnings = FALSE)
+  dir.create(fig_dir, recursive = TRUE, showWarnings = FALSE)
+  
+  # Iterate over unique conditions
+  cond_values <- unique(na.omit(data[[condition_col]]))
+  all_pred_list <- list()
+  all_age_df_list <- list()
+  
+  for (cond in cond_values) {
+    sub <- subset(data, data[[condition_col]] == cond)
+    if (nrow(sub) < 6 || length(unique(sub$assigned.age)) < 4) next
+    
+    # Prepare weights
+    sub$SE[is.na(sub$SE)] <- 1e-6
+    min_se <- quantile(sub$SE, 0.05, na.rm = TRUE)
+    sub$SE_clipped <- pmax(sub$SE, min_se)
+    sub$weights <- 1 / (sub$SE_clipped^2)
+    
+    # Define population size for point size in plots
+    sub$autism.N <- as.numeric(sub$autism.N)
+    sub$total.N <- as.numeric(sub$total.N)
+    sub$N_for_size <- ifelse(!is.na(sub$autism.N), sub$autism.N, sub$total.N)
+    
+    # Log-transform for ratio types
+    sub$is_ratio <- tolower(sub$AorR) == "ratio"
+    sub$rep.effect.original <- sub$rep.effect
+    sub$rep.effect <- ifelse(sub$is_ratio, log(sub$rep.effect), sub$rep.effect)
+    
+    # Fit GAM model
+    model <- tryCatch({
+      gam(rep.effect ~ s(assigned.age, bs = "cs", k = df), data = sub, weights = sub$weights)
+    }, error = function(e) NULL)
+    if (is.null(model)) next
+    
+    # Generate predictions including extrapolated range
+    min_age <- min(sub$assigned.age)
+    max_age <- max(sub$assigned.age)
+    age_seq <- seq(min_age, min(max_age + 10, 80), length.out = 400)
+    
+    pred <- predict(model, newdata = data.frame(assigned.age = age_seq), se.fit = TRUE)
+    trend_df <- data.frame(
+      assigned.age = age_seq,
+      predicted = as.numeric(pred$fit),
+      CI_Lower = pred$fit - 1.96 * pred$se.fit,
+      CI_Upper = pred$fit + 1.96 * pred$se.fit
+    )
+    
+    # Post-processing (truncation and back-transformation)
+    if (any(sub$is_ratio)) {
+      trend_df <- trend_df %>%
+        mutate(across(c(predicted, CI_Lower, CI_Upper), ~ pmin(.x, 3))) %>%
+        mutate(across(c(predicted, CI_Lower, CI_Upper), exp))
+    } else {
+      trend_df <- trend_df %>%
+        mutate(
+          predicted = pmin(predicted, 5),
+          CI_Lower = pmin(CI_Lower, 5),
+          CI_Upper = pmin(CI_Upper, 5)
+        )
+    }
+    
+    # Flag extrapolated region
+    trend_df <- trend_df %>%
+      mutate(is_extrapolated = assigned.age > max_age)
+    
+    # Export prediction dataframe
+    trend_df_export <- trend_df %>%
+      rename(Age = assigned.age, fit = predicted) %>%
+      mutate(
+        se.fit = (CI_Upper - CI_Lower) / (2 * 1.96),
+        merge.figure = unique(sub$merge.figure),
+        type = tolower(unique(sub$AorR)),
+        label = cond,
+        df_used = paste0("df = ", df)
+      ) %>%
+      select(merge.figure, type, Age, fit, se.fit, label, df_used)
+    all_pred_list[[cond]] <- trend_df_export
+    
+    # Summary estimates per 10-year age group
+    age_groups <- seq(0, 100, by = 10)
+    group_df_list <- list()
+    for (i in seq_along(age_groups[-length(age_groups)])) {
+      lower <- age_groups[i]
+      upper <- age_groups[i + 1] - 1
+      ages_in_group <- lower:upper
+      ages_in_group <- ages_in_group[ages_in_group >= min_age]
+      if (length(ages_in_group) == 0 || lower > max_age + 10) next
+      
+      preds <- predict(model, newdata = data.frame(assigned.age = ages_in_group), se.fit = TRUE)
+      est <- as.numeric(preds$fit)
+      se <- as.numeric(preds$se.fit)
+      
+      df_group <- data.frame(
+        Age = ages_in_group,
+        Estimate = est,
+        CI_Lower = est - 1.96 * se,
+        CI_Upper = est + 1.96 * se
+      )
+      
+      if (any(sub$is_ratio)) {
+        df_group <- df_group %>% mutate(across(c(Estimate, CI_Lower, CI_Upper), exp))
+      }
+      
+      med_est <- median(df_group$Estimate)
+      closest_idx <- which.min(abs(df_group$Estimate - med_est))
+      chosen_row <- df_group[closest_idx, ]
+      
+      summary_row <- data.frame(
+        Condition = cond,
+        df_used = paste0("df = ", df),
+        AgeGroup = paste0(lower, "-", upper + 1),
+        Midpoint = lower + 5,
+        Median_age = chosen_row$Age,
+        `95% CI (median)` = ifelse(
+          lower > max_age,
+          paste0(round(chosen_row$Estimate, 2), " (", round(chosen_row$CI_Lower, 2), " to ", round(chosen_row$CI_Upper, 2), ")*"),
+          paste0(round(chosen_row$Estimate, 2), " (", round(chosen_row$CI_Lower, 2), " to ", round(chosen_row$CI_Upper, 2), ")")
+        )
+      )
+      
+      group_df_list[[length(group_df_list) + 1]] <- summary_row
+    }
+    
+    age_df <- bind_rows(group_df_list)
+    all_age_df_list[[cond]] <- age_df
+    
+    # Save figure
+    safe_name <- str_replace_all(cond, "[^a-zA-Z0-9]", "_")
+    fig_filename <- paste0(safe_name, "_df", df, ".pdf")
+    
+    p <- ggplot() +
+      geom_point(data = sub, aes(x = assigned.age, y = rep.effect.original, size = N_for_size),
+                 shape = 21, fill = "white", color = "black", stroke = 0.8, alpha = 0.8) +
+      geom_ribbon(data = filter(trend_df, !is_extrapolated),
+                  aes(x = assigned.age, ymin = CI_Lower, ymax = CI_Upper),
+                  fill = "grey80", alpha = 0.4) +
+      geom_ribbon(data = filter(trend_df, is_extrapolated),
+                  aes(x = assigned.age, ymin = CI_Lower, ymax = CI_Upper),
+                  fill = "grey90", alpha = 0.4) +
+      geom_line(data = filter(trend_df, !is_extrapolated),
+                aes(x = assigned.age, y = predicted), color = "red", linewidth = 0.5) +
+      geom_line(data = filter(trend_df, is_extrapolated),
+                aes(x = assigned.age, y = predicted), color = "red", linewidth = 0.5, linetype = "dashed") +
+      geom_hline(yintercept = ifelse(any(sub$is_ratio), 1, 0), linetype = "dashed", color = "gray40") +
+      scale_x_continuous(limits = c(0, 80), expand = c(0, 0)) +
+      scale_size_continuous(name = "Sample size", range = c(1, 8)) +
+      labs(title = paste0(cond, " (df = ", df, ")"), x = "Age", y = "Effect") +
+      theme_minimal()
+    
+    ggsave(file.path(fig_dir, fig_filename), p, width = 15, height = 6)
+  }
+  
+  # Export results
+  all_pred_df <- bind_rows(all_pred_list)
+  write_csv(all_pred_df, file.path(output_dir, "predictions_all.csv"))
+  
+  all_age_df <- bind_rows(all_age_df_list)
+  write_csv(all_age_df, file.path(csv_dir, "all_age_groups.csv"))
+}
+
+# Run analysis script
+data <- read_csv("data.csv") ## path to data file
+conditions <- c("physical.condition_main_analysis", "physical.condition_sub_analysis")
+dfs <- c(4, 5, 6)
+
+base_dir <- "/savepath"
+
+for (cond_col in conditions) {
+  for (df_val in dfs) {
+    output_dir <- file.path(base_dir,
+                            ifelse(cond_col == "physical.condition_main_analysis", "main", "sub"),
+                            paste0("analysis_df", df_val))
+    gam_analysis_fx(data, condition_col = cond_col, output_dir = output_dir, df = df_val)
+  }
+}
